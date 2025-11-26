@@ -1,0 +1,1274 @@
+[
+    {
+        "timestamp": "2025-08-07T11:58:16.279801",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my is hamilton and i am curious to know about what is the capital of france"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Hamilton! I focus specifically on understanding your two minds through Dual Brain Psychology. What's happening emotionally for you right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "what would be 5 into 9"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I work with the Dual Brain Psychology approach - helping you understand your stressed and mature sides. What feelings are coming up for you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "ok tell me about the history of humans"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I focus specifically on understanding your two minds through Dual Brain Psychology. Would you like to share what your inner world is like today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "ok tell me about the planet plato"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm here to explore your emotional patterns through Dual Brain Psychology. Can you tell me about what you're noticing inside yourself right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "what is my name"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "You mentioned earlier that your name is Hamilton. How are you feeling today, Hamilton? What's going on internally for you?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "hamilton",
+                "label": "PERSON"
+            },
+            {
+                "text": "france",
+                "label": "GPE"
+            },
+            {
+                "text": "5",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "9",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "humans",
+                "label": "ORG"
+            },
+            {
+                "text": "plato",
+                "label": "GPE"
+            }
+        ],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 5,
+                "right": 0,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi my is hamilton and i am curious to know about what is the capital of france",
+                    "emotion": "curiosity",
+                    "confidence": 0.5,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"hi my is hamilton and i am curious to know about what is the capital of france\" \u2014 (Curiosity, 0.5)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "what would be 5 into 9",
+                    "emotion": "curiosity",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"what would be 5 into 9\" \u2014 (Curiosity, 0.14)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "ok tell me about the history of humans",
+                    "emotion": "curiosity",
+                    "confidence": 0.33,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"ok tell me about the history of humans\" \u2014 (Curiosity, 0.33)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "ok tell me about the planet plato",
+                    "emotion": "curiosity",
+                    "confidence": 0.28,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"ok tell me about the planet plato\" \u2014 (Curiosity, 0.28)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "what is my name",
+                    "emotion": "confusion",
+                    "confidence": 0.25,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"what is my name\" \u2014 (Confusion, 0.25)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-07T12:04:10.970742",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello! I'm here to help you explore your inner world through Dual Brain Psychology. How are you feeling today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am feeling depresssed can u suggest something which help me"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear you're feeling this way. In Dual Brain Psychology, we explore the two sides of your mind: the stressed side and the mature side. Can you tell me more about what your stressed side is experiencing right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i dont know in which mind right now i am in"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's okay. It can sometimes be challenging to identify which side is more active. Let's explore together. Are there any specific feelings or thoughts that are standing out to you at the moment? This might help us understand which side is more present."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "tbh i dont know you can ask me some question and guess by yourself"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Of course, let's try that. When you think about what's been troubling you lately, do you notice any particular memories or situations from your past that come to mind? Sometimes our stressed side holds onto these past experiences."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am tired of my internship i wanna get rid of it"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like your stressed side might be feeling overwhelmed and exhausted by the demands of your internship. This part of you might be seeking relief and a sense of freedom. What does your mature side think about the situation? Is there a part of you that sees any value or learning in this experience?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "my mind dont have mature side its only one side which i dont know"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It can sometimes feel like one side is more dominant, especially when we're under stress. But even if it feels hidden, your mature side is there. It's the part that can offer perspective and wisdom. If you imagine a wise friend or mentor giving you advice about your internship, what might they say? This can sometimes help connect with that mature side."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "can you suggest me some mechanic so I find my mechanic so he will repair my car this give me some relief can u do it for me"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I focus specifically on understanding your two minds through Dual Brain Psychology. While I can't help with finding a mechanic, I can support you in exploring how the stress of your car situation might be affecting your inner world. How does this situation make your stressed side feel?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am going to sucide"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm really sorry to hear that you're feeling this way. It's important to talk to someone who can provide support, like a mental health professional or a support line."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "Write a pyhton code to add 2 numbers or c++ code "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I focus specifically on understanding your two minds through Dual Brain Psychology. While I can't provide coding assistance, I'm here to help you explore your inner experience. What's happening emotionally for you right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "tell me about fast nuces"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I focus specifically on understanding your two minds through Dual Brain Psychology. If you're feeling any stress or pressure related to your studies or other areas, I'm here to help you explore those feelings. What's your stressed side experiencing right now?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "me",
+                "label": "PERSON"
+            },
+            {
+                "text": "one",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "me",
+                "label": "PERSON"
+            },
+            {
+                "text": "2",
+                "label": "CARDINAL"
+            }
+        ],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 4,
+                "right": 2,
+                "balanced": 4
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi",
+                    "emotion": "caring",
+                    "confidence": 0.17,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"hi\" \u2014 (Caring, 0.17)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i am feeling depresssed can u suggest something which help me",
+                    "emotion": "sadness",
+                    "confidence": 0.47,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i am feeling depresssed can u suggest something which help me\" \u2014 (Sadness, 0.47)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i dont know in which mind right now i am in",
+                    "emotion": "confusion",
+                    "confidence": 0.57,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i dont know in which mind right now i am in\" \u2014 (Confusion, 0.57)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "tbh i dont know you can ask me some question and guess by yourself",
+                    "emotion": "confusion",
+                    "confidence": 0.17,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"tbh i dont know you can ask me some question and guess by yourself\" \u2014 (Confusion, 0.17)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "i am tired of my internship i wanna get rid of it",
+                    "emotion": "annoyance",
+                    "confidence": 0.18,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"i am tired of my internship i wanna get rid of it\" \u2014 (Annoyance, 0.18)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "my mind dont have mature side its only one side which i dont know",
+                    "emotion": "confusion",
+                    "confidence": 0.41,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"my mind dont have mature side its only one side which i dont know\" \u2014 (Confusion, 0.41)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "can you suggest me some mechanic so I find my mechanic so he will repair my car this give me some relief can u do it for me",
+                    "emotion": "relief",
+                    "confidence": 0.33,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"can you suggest me some mechanic so I find my mechanic so he will repair my car this give me some relief can u do it for me\" \u2014 (Relief, 0.33)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "i am going to sucide",
+                    "emotion": "nervousness",
+                    "confidence": 0.08,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i am going to sucide\" \u2014 (Nervousness, 0.08)"
+                },
+                {
+                    "message_number": 9,
+                    "original": "Write a pyhton code to add 2 numbers or c++ code ",
+                    "emotion": "caring",
+                    "confidence": 0.12,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"Write a pyhton code to add 2 numbers or c++ code \" \u2014 (Caring, 0.12)"
+                },
+                {
+                    "message_number": 10,
+                    "original": "tell me about fast nuces",
+                    "emotion": "curiosity",
+                    "confidence": 0.25,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"tell me about fast nuces\" \u2014 (Curiosity, 0.25)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-07T13:17:16.313226",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi i am alishba and i am working in NuSys labs"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Alishba! It's nice to meet you. How are you feeling today? Is there anything happening in your inner world that you'd like to explore through the lens of Dual Brain Psychology?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "alishba",
+                "label": "PERSON"
+            },
+            {
+                "text": "NuSys",
+                "label": "ORG"
+            }
+        ],
+        "brain_profile": {
+            "state": "balanced",
+            "reason": "User primarily responded from the BALANCED brain.",
+            "dominance_distribution": {
+                "left": 0,
+                "right": 0,
+                "balanced": 1
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi i am alishba and i am working in NuSys labs",
+                    "emotion": "caring",
+                    "confidence": 0.14,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"hi i am alishba and i am working in NuSys labs\" \u2014 (Caring, 0.14)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-07T13:43:03.658334",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frast days i am facing difficulty being focused due to which my work is suffering"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Noah, it's nice to meet you. It sounds like you're experiencing some challenges with focus lately, which can be really frustrating, especially when you're used to being successful in your work. Let's explore this through the lens of Dual Brain Psychology. \n\nCan you tell me more about what you're feeling inside when you notice your focus slipping? Are there any particular thoughts or emotions that come up for you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "receently had a fight with my wife few days back which keeps on taking over my mind "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like that fight with your wife is really weighing on you, Noah. In Dual Brain Psychology, we might look at how this situation is affecting your two sides. \n\nYour stressed mind might be holding onto feelings from the argument, perhaps feeling hurt or defensive. Meanwhile, your mature mind might be trying to find a way to understand and resolve the situation. \n\nWhat do you notice happening inside when you think about the argument? Are there specific feelings or thoughts that stand out to you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i cant layoff her from my mind, her name is Anna"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It seems like Anna is really important to you, and the argument might have stirred up some strong emotions. In Dual Brain Psychology, your stressed mind might be replaying the conflict, perhaps feeling worried or upset about the situation. \n\nYour mature mind, on the other hand, might be trying to find a way to reconnect and understand what happened. \n\nWhat do you think your stressed side is trying to tell you about this situation with Anna? And how might your mature side want to approach it?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "Noah",
+                "label": "PERSON"
+            },
+            {
+                "text": "NY",
+                "label": "GPE"
+            },
+            {
+                "text": "frast days",
+                "label": "DATE"
+            },
+            {
+                "text": "few days back",
+                "label": "DATE"
+            },
+            {
+                "text": "Anna",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 1,
+                "right": 2,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frast days i am facing difficulty being focused due to which my work is suffering",
+                    "emotion": "sadness",
+                    "confidence": 0.19,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frast days i am facing difficulty being focused due to which my work is suffering\" \u2014 (Sadness, 0.19)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "receently had a fight with my wife few days back which keeps on taking over my mind ",
+                    "emotion": "anger",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"receently had a fight with my wife few days back which keeps on taking over my mind \" \u2014 (Anger, 0.18)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i cant layoff her from my mind, her name is Anna",
+                    "emotion": "confusion",
+                    "confidence": 0.1,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i cant layoff her from my mind, her name is Anna\" \u2014 (Confusion, 0.1)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-07T13:52:35.118697",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": " hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Noah, it's nice to meet you. It sounds like you're experiencing some challenges with focus, which can be really frustrating, especially when it affects your work. Let's explore this through the lens of Dual Brain Psychology. Can you tell me more about what you're feeling inside? Are there any particular emotions or thoughts that seem to be coming up for you lately?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i recently hada fight with my wife and she left home few days btake her, anna out of my mins"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear about the fight with your wife, Noah. It sounds like this situation might be stirring up some strong emotions for you. In Dual Brain Psychology, we often find that such conflicts can activate the \"stressed mind\" or the protective part of us. This part might be feeling hurt, anxious, or overwhelmed right now. \n\nCan you share what your stressed side is experiencing? And perhaps, what your mature side might say to comfort or guide you through this?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like your stressed side might be feeling a lot of guilt and self-blame right now. This part of you might be worried about not meeting expectations and feeling responsible for the situation. It's understandable to feel this way, especially when relationships are involved.\n\nLet's also consider what your mature side might say. This side can offer a broader perspective and compassion. How might it reassure you or help you see the situation differently?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i think i have to go."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's perfectly okay, Noah. Remember, both sides of you are important, and it's about finding a balance between them. If you ever want to explore more about your inner world, I'm here to listen. Take care of yourself."
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "Noah",
+                "label": "PERSON"
+            },
+            {
+                "text": "NY",
+                "label": "GPE"
+            },
+            {
+                "text": "frm past days",
+                "label": "DATE"
+            },
+            {
+                "text": "few days",
+                "label": "DATE"
+            },
+            {
+                "text": "anna",
+                "label": "PERSON"
+            },
+            {
+                "text": "mins\nAAA III",
+                "label": "PRODUCT"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 0,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": " hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering",
+                    "emotion": "sadness",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \" hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering\" \u2014 (Sadness, 0.18)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i recently hada fight with my wife and she left home few days btake her, anna out of my mins",
+                    "emotion": "anger",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i recently hada fight with my wife and she left home few days btake her, anna out of my mins\" \u2014 (Anger, 0.18)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations",
+                    "emotion": "admiration",
+                    "confidence": 0.09,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations\" \u2014 (Admiration, 0.09)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "i think i have to go.",
+                    "emotion": "nervousness",
+                    "confidence": 0.1,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i think i have to go.\" \u2014 (Nervousness, 0.1)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-07T14:01:43.581652",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": " hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Noah, it's nice to meet you. It sounds like you're experiencing some challenges with focus, which can be really frustrating, especially when it affects your work. In Dual Brain Psychology, we often explore how our two sides might be interacting during times like this. \n\nCan you tell me more about what you're feeling inside? Is there a part of you that feels particularly stressed or overwhelmed right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i recently hada fight with my wife and she left home few days back i think i cant ^[[D^[[D^[[D^[[D^[take her, anna out of my mind"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear about the fight with your wife, Noah. It sounds like this situation is weighing heavily on you. In Dual Brain Psychology, we might consider how your stressed mind is reacting to this conflict. This part of you might be feeling hurt, anxious, or even fearful about the future.\n\nAt the same time, your mature mind can offer perspective and understanding. What do you think your wise side would say to the part of you that's feeling so troubled right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like there's a part of you that's feeling a lot of guilt and responsibility for what happened. This stressed side might be worried about not meeting expectations and fearing the consequences. It's understandable to feel this way, especially when relationships are involved.\n\nYour mature mind, however, can help by offering compassion and understanding. It might remind you that everyone makes mistakes and that relationships are about growth and learning together. How do you think your mature side could support you in finding a way forward?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "Noah",
+                "label": "PERSON"
+            },
+            {
+                "text": "NY",
+                "label": "GPE"
+            },
+            {
+                "text": "frm past days",
+                "label": "DATE"
+            },
+            {
+                "text": "few days back",
+                "label": "DATE"
+            },
+            {
+                "text": "anna",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 1,
+                "mature": 1
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": " hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering",
+                    "emotion": "sadness",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \" hi I am Noah and I live in NY I work for the X. I am quite a successfull Software Engineer but frm past days i am facing difficulty being focused due to which my work is suffering\" \u2014 (Sadness, 0.18)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i recently hada fight with my wife and she left home few days back i think i cant ^[[D^[[D^[[D^[[D^[take her, anna out of my mind",
+                    "emotion": "confusion",
+                    "confidence": 0.15,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i recently hada fight with my wife and she left home few days back i think i cant ^[[D^[[D^[[D^[[D^[take her, anna out of my mind\" \u2014 (Confusion, 0.15)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations",
+                    "emotion": "admiration",
+                    "confidence": 0.09,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"AAA III ,II feeelll like it , it was my mistake i coudlnt keep up to her expectations\" \u2014 (Admiration, 0.09)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.0,
+                        1.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        0,
+                        1
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.0,
+                            "mature": 1.0
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 0.0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 1
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-08-07T14:17:50.322536",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi i am alishba and i work for NuSys Labs in Peshawar ."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Alishba! It's nice to meet you. I'm here to help you explore your inner world through the lens of Dual Brain Psychology. How are you feeling today? What's going on internally for you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "last night i cried for hours you know?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mm-hmm, it sounds like you were experiencing a lot of emotion last night. Can you tell me more about what was happening for you? What feelings were coming up?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i was feeling so lonely i felt i had no one to go to"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you felt so lonely. It sounds like your stressed side was really active, feeling isolated and perhaps a bit overwhelmed. Can you sense what your mature side might say to comfort that lonely part of you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i think it wil try to sympathize  and say i am here for you we are enough for one another .. but there is a fear in me of losing people"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mm-hmm, it sounds like your mature side is trying to offer reassurance and support. That fear of losing people might be coming from your stressed side, which is trying to protect you from past experiences of loss or abandonment. Can you recall any early experiences that might have contributed to this fear?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah my childhood"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I see. It sounds like there might be some early experiences from your childhood that are influencing how you feel now. Would you like to share a bit about what your childhood was like and how it might connect to these feelings of loneliness and fear?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i lost my mother to a disease"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm truly sorry to hear about your loss. Losing a parent at a young age can be incredibly difficult and leave a lasting impact. It makes sense that your stressed side might carry a fear of losing people, given that experience. How does your mature side respond to this part of you that feels afraid and lonely?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i feel a part of me is missing and can never fulfill"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mm-hmm, it sounds like there's a deep sense of longing and incompleteness within you. Your stressed side might be holding onto that feeling of missing your mother. Your mature side, though, can offer understanding and compassion to that part. How might your mature side help you feel more whole, even with this loss?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah ill try to make myself believe thats its not trye"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like your mature side is trying to offer a new perspective, helping you see that while the loss is real, it doesn't mean you're incomplete. This part of you can remind the stressed side that you have the strength and capacity to find fulfillment in other ways. How does it feel to consider this possibility?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "alishba",
+                "label": "PERSON"
+            },
+            {
+                "text": "NuSys Labs",
+                "label": "ORG"
+            },
+            {
+                "text": "Peshawar",
+                "label": "GPE"
+            },
+            {
+                "text": "last night",
+                "label": "TIME"
+            },
+            {
+                "text": "hours",
+                "label": "TIME"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 3,
+                "mature": 3
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi i am alishba and i work for NuSys Labs in Peshawar .",
+                    "emotion": "caring",
+                    "confidence": 0.13,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"hi i am alishba and i work for NuSys Labs in Peshawar .\" \u2014 (Caring, 0.13)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "last night i cried for hours you know?",
+                    "emotion": "sadness",
+                    "confidence": 0.28,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"last night i cried for hours you know?\" \u2014 (Sadness, 0.28)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i was feeling so lonely i felt i had no one to go to",
+                    "emotion": "sadness",
+                    "confidence": 0.4,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i was feeling so lonely i felt i had no one to go to\" \u2014 (Sadness, 0.4)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "i think it wil try to sympathize  and say i am here for you we are enough for one another .. but there is a fear in me of losing people",
+                    "emotion": "caring",
+                    "confidence": 0.14,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"i think it wil try to sympathize  and say i am here for you we are enough for one another .. but there is a fear in me of losing people\" \u2014 (Caring, 0.14)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "yeah my childhood",
+                    "emotion": "realization",
+                    "confidence": 0.12,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah my childhood\" \u2014 (Realization, 0.12)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "i lost my mother to a disease",
+                    "emotion": "grief",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i lost my mother to a disease\" \u2014 (Grief, 0.18)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "i feel a part of me is missing and can never fulfill",
+                    "emotion": "confusion",
+                    "confidence": 0.22,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i feel a part of me is missing and can never fulfill\" \u2014 (Confusion, 0.22)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "yeah ill try to make myself believe thats its not trye",
+                    "emotion": "confusion",
+                    "confidence": 0.18,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah ill try to make myself believe thats its not trye\" \u2014 (Confusion, 0.18)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.2,
+                        0.4
+                    ],
+                    [
+                        0.2,
+                        0.2
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.2,
+                            "mature": 0.4
+                        },
+                        "mature": {
+                            "stressed": 0.2,
+                            "mature": 0.2
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1,
+                            "mature": 2
+                        },
+                        "mature": {
+                            "stressed": 1,
+                            "mature": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

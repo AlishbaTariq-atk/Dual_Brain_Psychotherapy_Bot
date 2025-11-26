@@ -1,0 +1,278 @@
+[
+    {
+        "timestamp": "2025-08-05T12:13:30.345453",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey my name is carol and i am marrying eva the love of my life and i am feeling very excited and happy also i am feelin sad because i lost my parents last year and i feel there absence "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Carol, it's wonderful to hear about your excitement and happiness as you prepare to marry Eva, the love of your life. It's a significant and joyous milestone. At the same time, it's completely natural to feel a sense of sadness and longing for your parents, especially during such an important life event. Their absence can be deeply felt during times of celebration.\n\nTo better understand your feelings, could you share a bit more about how you're experiencing this mix of emotions? For example, are there specific moments or thoughts that bring these feelings to the forefront?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "carol",
+                "label": "PERSON"
+            },
+            {
+                "text": "eva",
+                "label": "PERSON"
+            },
+            {
+                "text": "last year",
+                "label": "DATE"
+            }
+        ],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 0,
+                "right": 1,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hey my name is carol and i am marrying eva the love of my life and i am feeling very excited and happy also i am feelin sad because i lost my parents last year and i feel there absence ",
+                    "emotion": "joy",
+                    "confidence": 0.93,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hey my name is carol and i am marrying eva the love of my life and i am feeling very excited and happy also i am feelin sad because i lost my parents last year and i feel there absence \" \u2014 (Joy, 0.93)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-05T15:39:11.992359",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is subhan , i am in new york"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello Subhan! It's nice to meet you. How are you feeling today? Is there anything on your mind that you'd like to explore using Dual Brain Psychology?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "subhan",
+                "label": "PERSON"
+            },
+            {
+                "text": "new york",
+                "label": "GPE"
+            }
+        ],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 0,
+                "right": 1,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi my name is subhan , i am in new york",
+                    "emotion": "surprise",
+                    "confidence": 0.58,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hi my name is subhan , i am in new york\" \u2014 (Surprise, 0.58)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-05T15:42:07.174894",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey whats up"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm here only to explore your emotional patterns using Dual Brain Psychology. Would you like to share more about what's going on inside right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "my name is subhan and i am feeling sad"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Subhan. Let's explore this feeling of sadness together. Can you tell me where in your body or mind you sense this sadness?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "subhan",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 1,
+                "right": 1,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hey whats up",
+                    "emotion": "neutral",
+                    "confidence": 0.62,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"hey whats up\" \u2014 (Neutral, 0.62)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "my name is subhan and i am feeling sad",
+                    "emotion": "sadness",
+                    "confidence": 0.99,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"my name is subhan and i am feeling sad\" \u2014 (Sadness, 0.99)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-05T16:00:47.474079",
+        "chat_history": [],
+        "entities": [],
+        "brain_profile": {
+            "state": "unknown",
+            "reason": "No user messages found.",
+            "dominance_distribution": {},
+            "messages": [],
+            "transitions": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-05T16:02:12.518209",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "HI I am ALex"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello Alex! I'm here to explore your emotional patterns using Dual Brain Psychology. Would you like to share more about what's going on inside right now?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 1,
+                "right": 0,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "HI I am ALex",
+                    "emotion": "neutral",
+                    "confidence": 0.77,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"HI I am ALex\" \u2014 (Neutral, 0.77)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    }
+]

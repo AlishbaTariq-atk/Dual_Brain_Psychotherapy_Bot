@@ -1,0 +1,231 @@
+[
+    {
+        "timestamp": "2025-08-11T18:50:46.636341",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i want to kill u"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're feeling really upset right now. I'm here to listen and support you. Can you tell me more about what's going on?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "you are not working as intented"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry if I'm not meeting your expectations. I'm here to focus on understanding your feelings and experiences. Can you share more about what's been on your mind lately?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "do u know about llms"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I understand that there are many interesting topics out there, but I'm here to focus on you and your experiences. What's been going on in your life recently that you'd like to talk about?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "perfect"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm glad to hear that. Let's continue focusing on you. What would you like to explore or discuss today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i dont want to discuss"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's completely okay. Sometimes just having a moment of quiet can be helpful too. If there's anything you feel like sharing later, I'm here to listen."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "wrak sha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It seems like you might be expressing something important. If you feel comfortable, could you tell me more about what you're experiencing right now?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "u",
+                "label": "PERSON"
+            },
+            {
+                "text": "llms",
+                "label": "PERSON"
+            },
+            {
+                "text": "perfect",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 2,
+                "mature": 2
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "i want to kill u",
+                    "emotion": "desire",
+                    "confidence": 0.31,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i want to kill u\" \u2014 (Desire, 0.31)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "you are not working as intented",
+                    "emotion": "disappointment",
+                    "confidence": 0.16,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"you are not working as intented\" \u2014 (Disappointment, 0.16)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "do u know about llms",
+                    "emotion": "curiosity",
+                    "confidence": 0.24,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"do u know about llms\" \u2014 (Curiosity, 0.24)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "perfect",
+                    "emotion": "approval",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"perfect\" \u2014 (Approval, 0.14)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "i dont want to discuss",
+                    "emotion": "disapproval",
+                    "confidence": 0.24,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"i dont want to discuss\" \u2014 (Disapproval, 0.24)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "wrak sha",
+                    "emotion": "embarrassment",
+                    "confidence": 0.08,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"wrak sha\" \u2014 (Embarrassment, 0.08)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.3333,
+                        0.3333
+                    ],
+                    [
+                        0.0,
+                        0.3333
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        1,
+                        1
+                    ],
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.3333,
+                            "mature": 0.3333
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 0.3333
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1,
+                            "mature": 1
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+]

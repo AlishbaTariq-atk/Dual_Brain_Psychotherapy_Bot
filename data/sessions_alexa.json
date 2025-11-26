@@ -1,0 +1,166 @@
+[
+    {
+        "timestamp": "2025-08-14T15:56:47.152363",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey there i am feeling quite depressed today"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you're feeling this way. Can you tell me more about what's been going on? How long have you been feeling like this?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i  had an argument with my friend Tom and now we are not talking i feel like crying"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like that argument with Tom has really affected you. How would you rate your sadness right now from 0 to 10? And what do you think led to the argument?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "8 . he wasnt accepting my point of view on something"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That sounds really frustrating, especially when you feel like your perspective isn't being heard. How does this situation with Tom remind you of any experiences from your past, perhaps from your childhood?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "today",
+                "label": "DATE"
+            },
+            {
+                "text": "Tom",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 2,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hey there i am feeling quite depressed today",
+                    "emotion": "sadness",
+                    "confidence": 0.42,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hey there i am feeling quite depressed today\" \u2014 (Sadness, 0.42)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i  had an argument with my friend Tom and now we are not talking i feel like crying",
+                    "emotion": "sadness",
+                    "confidence": 0.25,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i  had an argument with my friend Tom and now we are not talking i feel like crying\" \u2014 (Sadness, 0.25)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "8 . he wasnt accepting my point of view on something",
+                    "emotion": "disapproval",
+                    "confidence": 0.35,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"8 . he wasnt accepting my point of view on something\" \u2014 (Disapproval, 0.35)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        1,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1.0,
+                            "mature": 0.0
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 0.0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 1,
+        "user_id": "alexa"
+    }
+]

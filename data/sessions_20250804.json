@@ -1,0 +1,312 @@
+[
+    {
+        "timestamp": "2025-08-04T11:35:12.044591",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is zyan and brother name is hashir he died in a car acident and now i am feeling sad"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Zyan, I'm truly sorry to hear about the loss of your brother, Hashir. It sounds like you're navigating a very difficult time, and it's completely understandable that you're feeling sad.\n\nTo better understand what you're going through and how I can offer support within the dual-brain psychology framework, could you tell me more about the kind of sadness you're experiencing? For example, is it a constant feeling, or does it come in waves?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "he was over speeding in new york on his 300000 dollars car"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Zyan. It sounds like there might be a lot of complex feelings tied to the circumstances of the accident.\n\nTo help me understand the situation better, what thoughts or images come to mind when you think about Hashir overspeeding in his car?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "zyan",
+                "label": "PERSON"
+            },
+            {
+                "text": "hashir",
+                "label": "PERSON"
+            },
+            {
+                "text": "new york",
+                "label": "GPE"
+            },
+            {
+                "text": "300000 dollars",
+                "label": "MONEY"
+            }
+        ],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T11:38:08.834634",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hello i am feeling melancholy what to do"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I understand you're feeling melancholy. To better understand what might be causing this and how we can explore it using dual-brain psychology, could you tell me a bit more about what that melancholy feels like for you? What thoughts or sensations are you experiencing?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T12:15:34.028060",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey my name is zyan and my brother name is lewis we visited spain last year and spent 5000 dollars on our trip it was a good trip and i miss my days there"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Zyan, it sounds like you have some fond memories of your trip to Spain with Lewis. What specifically about that trip do you miss the most?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "zyan",
+                "label": "PERSON"
+            },
+            {
+                "text": "lewis",
+                "label": "PERSON"
+            },
+            {
+                "text": "spain",
+                "label": "GPE"
+            },
+            {
+                "text": "last year",
+                "label": "DATE"
+            },
+            {
+                "text": "5000 dollars",
+                "label": "MONEY"
+            }
+        ],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T12:18:05.178138",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is hashir"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Hashir, it's nice to meet you. I'm here to listen and offer support based on dual-brain psychology principles. Is there anything on your mind that you'd like to explore or work through today?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "hashir",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T13:49:20.064077",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey whats up buddy i am feeling happy"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hey there! It's great to hear that you're feeling happy. Happiness is such a wonderful state to be in. Is there anything specific that's contributing to your happiness today? I'd love to hear more about it!"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T13:57:21.827538",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey my name is subhan and i am studying in fast university and i makes me sad sometimes"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hi Subhan, it's nice to meet you. It sounds like you're experiencing some emotional discomfort related to your time at FAST University. Could you share a bit more about what aspects of your university experience are contributing to these feelings? Understanding the specific triggers or situations can help us explore this further together."
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "subhan",
+                "label": "PERSON"
+            },
+            {
+                "text": "fast university",
+                "label": "ORG"
+            }
+        ],
+        "brain_profile": null
+    },
+    {
+        "timestamp": "2025-08-04T17:04:55.640851",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey my name carol"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello Carol! It's nice to meet you. How are you feeling today? If there's anything on your mind or something you'd like to explore together, especially within the context of dual-brain psychology, I'm here to listen and support you."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "a lot of the time i leave your office feeling like i've i'm in an epiphany and i'm so pumped up and it it lasts like a week week and a half and all of a sudden i feel a little crummy again and i can't unstick myself until i see you and then you help me move forward. - "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're experiencing a cycle where you feel energized and inspired after certain experiences, but then find yourself feeling stuck again after some time. This can be quite common, and it's great that you're aware of this pattern. Let's explore this a bit more to understand it better. Can you share what typically happens during those moments when you feel energized and what might be contributing to the shift back to feeling stuck?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "Right. Okay. Okay. "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that. It seems like you're reflecting on this pattern. Let's delve a bit deeper. When you feel that initial burst of energy and clarity, what specific thoughts or activities are you engaging in? And when the feeling starts to shift, are there any particular events or thoughts that seem to trigger that change? Understanding these details can help us explore how your mind is processing these experiences."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "Yeah. I try. we can do it yeah I think so I'm telling you it's like it's like you are the best my stomach ache is gone my body temperature normalized I have a voice again I can breathe normally my heart rate feels normal and i don't feel like i want to crawl into bed anymore i feel all the way like better it's it's amazing i felt so sick earlier and so sick for three days and now i'm totally better feel better. "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're experiencing a significant shift in how you feel, both physically and emotionally, after certain interactions or experiences. This kind of transformation can be quite powerful and uplifting. Let's explore what might be happening here. \n\nWhen you notice these positive changes, are there specific thoughts, realizations, or activities that seem to accompany this shift? Understanding what contributes to these moments of feeling better can help us identify ways to sustain that positive energy."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "I like that. Yeah. That's amazing. it's just amazing it's amazing that that this works i mean it really does work sometimes i i do i fantasize about uh taking my medicine early but i don't and and i wonder sometimes i wonder if i'm like having a withdrawal or not which i'm not i'm really not and then just from talking to you, you can help me feel better. Like the way, like when I don't feel well and I fantasize about taking medicine, it's to achieve how I feel now. "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's wonderful to hear that you're finding ways to feel better and that these conversations are contributing to that positive shift. It seems like you're experiencing a strong connection between your thoughts, feelings, and the relief you find through certain interactions or realizations.\n\nIn dual-brain psychology, this might relate to how different parts of your mind are interacting. Sometimes, engaging with supportive guidance or insights can help activate the more mature, balanced side of your mind, leading to a sense of relief and well-being.\n\nLet's consider what specific aspects of these interactions or realizations seem to help you feel better. Are there particular thoughts or insights that resonate with you during these times? Understanding this can help us explore ways to maintain that sense of well-being."
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "carol",
+                "label": "PERSON"
+            },
+            {
+                "text": "a",
+                "label": "PERSON"
+            },
+            {
+                "text": "like a week week and a half",
+                "label": "DATE"
+            },
+            {
+                "text": "three days",
+                "label": "DATE"
+            }
+        ],
+        "brain_profile": null
+    }
+]

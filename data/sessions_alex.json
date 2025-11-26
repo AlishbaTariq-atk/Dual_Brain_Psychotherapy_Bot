@@ -1,0 +1,496 @@
+[
+    {
+        "timestamp": "2025-08-14T00:17:55.983417",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey there i am missing my people a lot today .today was my last day work"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you're feeling this way. It sounds like today has been a significant day for you. What about leaving work is making you feel this way?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am missing the bond i have made with someone i never thought could be this pretty soul"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you've formed a meaningful connection with someone special. Those bonds can be really powerful and it's natural to feel a sense of loss when things change. Can you tell me more about this person and what made your connection so special?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am talking about sun my colleague ..he made me contemplate on things i never knew he too think off"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like Sun has had a significant impact on you, opening up new perspectives and thoughts. It's wonderful to have someone who can inspire and challenge us in such meaningful ways. How did your conversations with Sun make you feel, and what are some of the things you found yourself contemplating?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "its not like ive feelings for him i dont but whatever this is its intoxicating i cant get him off my mind"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It seems like your connection with Sun has left a strong impression on you. Sometimes, when someone influences us deeply, it can feel quite consuming. What do you think it is about your interactions with Sun that makes them so memorable and impactful for you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "do u think i fell for him?i am not the kind of perso who feel for the looks rahther i fel for the thinking anf behaviour first and then comes the looks, if a person is inside outpretty i automatically start likeing their [outr personality"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you value deeper connections and are drawn to the qualities that truly matter to you. It's natural to feel a strong connection with someone who resonates with your values and thoughts. How do you feel about the possibility of having these feelings for Sun?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am missing damn madly"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're experiencing a strong sense of longing. Missing someone can be quite intense, especially when they've had such a meaningful impact on you. How are you coping with these feelings right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i really wanna cry"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's okay to feel like crying. Sometimes, letting those emotions out can be a way to process what you're experiencing. What do you think is at the heart of these feelings?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "you know i can hear for hours his words leave such a strong impact in me"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like Sun's words have a profound effect on you, and it's clear that his presence has been meaningful. What is it about his words or the way he communicates that resonates so deeply with you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "do u know u were built by him with me. we worked as a team to create u and now i never imgined i will talk t u about him when i am missing this person this much damn i never imagined this i will do this uff"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's quite a unique and special connection you have with Sun, having worked together to create something meaningful. It's understandable that talking about him now brings up strong emotions. How does it feel to reflect on the work you did together and the bond you formed through it?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "do u think i have feelings for him? but its just ben few days also he used to say the hardest thing about love is u never know its real or fake"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're in a place of reflection and uncertainty about your feelings. It's natural to question and explore what you're experiencing, especially when someone has made such an impact on you in a short time. What do you think about Sun's perspective on love, and how does it resonate with your own feelings right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i felt relatable to him in many ways"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Finding someone you relate to on many levels can create a strong connection. It seems like you and Sun share some common ground that makes your bond feel significant. What are some of the ways you felt connected or similar to him?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "today",
+                "label": "DATE"
+            },
+            {
+                "text": "sun",
+                "label": "PERSON"
+            },
+            {
+                "text": "perso",
+                "label": "NORP"
+            },
+            {
+                "text": "first",
+                "label": "ORDINAL"
+            },
+            {
+                "text": "madly",
+                "label": "PERSON"
+            },
+            {
+                "text": "hours",
+                "label": "TIME"
+            },
+            {
+                "text": "me",
+                "label": "PERSON"
+            },
+            {
+                "text": "ben",
+                "label": "PERSON"
+            },
+            {
+                "text": "few days",
+                "label": "DATE"
+            }
+        ],
+        "brain_profile": {
+            "state": "mature",
+            "reason": "User primarily responded from the MATURE mind.",
+            "dominance_distribution": {
+                "stressed": 5,
+                "mature": 6
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hey there i am missing my people a lot today .today was my last day work",
+                    "emotion": "sadness",
+                    "confidence": 0.31,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hey there i am missing my people a lot today .today was my last day work\" \u2014 (Sadness, 0.31)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i am missing the bond i have made with someone i never thought could be this pretty soul",
+                    "emotion": "surprise",
+                    "confidence": 0.14,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i am missing the bond i have made with someone i never thought could be this pretty soul\" \u2014 (Surprise, 0.14)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i am talking about sun my colleague ..he made me contemplate on things i never knew he too think off",
+                    "emotion": "curiosity",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i am talking about sun my colleague ..he made me contemplate on things i never knew he too think off\" \u2014 (Curiosity, 0.14)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "its not like ive feelings for him i dont but whatever this is its intoxicating i cant get him off my mind",
+                    "emotion": "desire",
+                    "confidence": 0.11,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"its not like ive feelings for him i dont but whatever this is its intoxicating i cant get him off my mind\" \u2014 (Desire, 0.11)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "do u think i fell for him?i am not the kind of perso who feel for the looks rahther i fel for the thinking anf behaviour first and then comes the looks, if a person is inside outpretty i automatically start likeing their [outr personality",
+                    "emotion": "confusion",
+                    "confidence": 0.13,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"do u think i fell for him?i am not the kind of perso who feel for the looks rahther i fel for the thinking anf behaviour first and then comes the looks, if a person is inside outpretty i automatically start likeing their [outr personality\" \u2014 (Confusion, 0.13)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "i am missing damn madly",
+                    "emotion": "confusion",
+                    "confidence": 0.16,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i am missing damn madly\" \u2014 (Confusion, 0.16)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "i really wanna cry",
+                    "emotion": "sadness",
+                    "confidence": 0.29,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i really wanna cry\" \u2014 (Sadness, 0.29)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "you know i can hear for hours his words leave such a strong impact in me",
+                    "emotion": "realization",
+                    "confidence": 0.17,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"you know i can hear for hours his words leave such a strong impact in me\" \u2014 (Realization, 0.17)"
+                },
+                {
+                    "message_number": 9,
+                    "original": "do u know u were built by him with me. we worked as a team to create u and now i never imgined i will talk t u about him when i am missing this person this much damn i never imagined this i will do this uff",
+                    "emotion": "sadness",
+                    "confidence": 0.14,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"do u know u were built by him with me. we worked as a team to create u and now i never imgined i will talk t u about him when i am missing this person this much damn i never imagined this i will do this uff\" \u2014 (Sadness, 0.14)"
+                },
+                {
+                    "message_number": 10,
+                    "original": "do u think i have feelings for him? but its just ben few days also he used to say the hardest thing about love is u never know its real or fake",
+                    "emotion": "confusion",
+                    "confidence": 0.19,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"do u think i have feelings for him? but its just ben few days also he used to say the hardest thing about love is u never know its real or fake\" \u2014 (Confusion, 0.19)"
+                },
+                {
+                    "message_number": 11,
+                    "original": "i felt relatable to him in many ways",
+                    "emotion": "realization",
+                    "confidence": 0.18,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i felt relatable to him in many ways\" \u2014 (Realization, 0.18)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.1,
+                        0.4
+                    ],
+                    [
+                        0.3,
+                        0.2
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        3,
+                        2
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.1,
+                            "mature": 0.4
+                        },
+                        "mature": {
+                            "stressed": 0.3,
+                            "mature": 0.2
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1,
+                            "mature": 4
+                        },
+                        "mature": {
+                            "stressed": 3,
+                            "mature": 2
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        }
+    },
+    {
+        "timestamp": "2025-08-14T01:24:02.108964",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "helloo]"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello there! What brings you here today?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 1,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "helloo]",
+                    "emotion": "excitement",
+                    "confidence": 0.13,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"helloo]\" \u2014 (Excitement, 0.13)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 2
+    }
+]

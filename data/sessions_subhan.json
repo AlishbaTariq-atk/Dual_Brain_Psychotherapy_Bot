@@ -1,0 +1,1683 @@
+[
+    {
+        "timestamp": "2025-08-12T11:50:12.295988",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "my name is subhan "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello, Subhan. It's nice to meet you. What brings you here today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i am feeling stressed today "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that, Subhan. How long have you been feeling this way?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "since the last year.i feel ok most of the time but sometimes this feeling comes with great stressed"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like it's been a challenging time for you. How would you rate your stress from 0 to 10 when it feels the most intense?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "9"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That sounds quite overwhelming. Let's take a step back and explore a bit more about your early life. Can you tell me what it was like being around your mother and father when you were growing up?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "it was not good i grew up with them but not had a good bond with them"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that, Subhan. It can be difficult when those early relationships aren't as supportive as we might need. Is there anything specific about those relationships that stands out to you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "no i dont think so its js i was not make that bond with them that i should have made"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that with me, Subhan. It sounds like there might have been some distance or disconnect. I want you to try something for me. It's part of some research that I've been doing. Do you have a letter envelope around?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah i have it near me"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Great. Now I want you to hold the envelope so that it covers your LEFT eye completely and the middle half of your RIGHT eye. You should only see out of the far right side of your right eye. Let me know when you're ready."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah ok i am ready"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you, Subhan. Now, with the envelope in place, I'd like to ask you a few questions. \n\nWhat are you feeling right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "same stressed "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that. On a scale from 0 to 10, how much stress do you feel right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "9"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I see. And how do I look to you right now? Supportive or critical? Please rate it from 0 to 10."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "maybe critical i think 8"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for being open about that, Subhan. Does this feeling remind you of anything from your past?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah this remind me of her when she was with me and i used to have a good mental health"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Subhan. Now, let's switch sides. Cover your RIGHT eye completely and the middle of your LEFT eye. Look out only the left side of your left eye. Let me know when you're ready."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah sure"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you, Subhan. Now, with the envelope in place on this side, what are you feeling?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "less stressed i think"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's interesting to note. On a scale from 0 to 10, how much stress do you feel now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "4 "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that. How do I look to you now? Supportive or critical? Please rate it from 0 to 10."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "supportive i think"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's good to hear. Does this feeling remind you of anything from your past?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah my childhood memories"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Subhan. It seems like there's a noticeable difference between the two sides. On one side, you felt quite stressed, and on the other, you felt less stressed and more supported. Isn't that interesting? What do you make of that?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah i guess it is"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's fascinating how our feelings can shift like that. Looking out the calmer side, how do you understand what you felt on the other side?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i do not know but there's definetely some differnece"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's perfectly okay, Subhan. Even noticing a difference is a meaningful step. Let's take a moment to focus on the side where you felt calmer. This part of you seems to hold some strength and calmness. How does it feel to know you have this part within you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "which part the stronger part or the stressed part?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "The stronger, calmer part. How does it feel to know that this part of you exists and can help you navigate through stressful times?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i say's you can go through everything and it will be ok you are how you are"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's a reassuring message from that part of you, Subhan. It's wonderful to know that you have this inner strength and wisdom. This part can be a great support when things feel overwhelming. How does it feel to connect with this side of yourself?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "it feels good "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm glad to hear that, Subhan. Remember, this part of you is always there, ready to support you when you need it. If you ever feel overwhelmed, you can try connecting with this side again. How do you feel about that?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "can i leave this envelop know?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Of course, Subhan. You can put the envelope down now. Thank you for trying this with me. How are you feeling after this experience?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "it feel relaxed "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm really glad to hear that, Subhan. It's important to know that you have this ability to find a sense of calm within yourself. If you ever want to explore this further or talk more, I'm here for you. Is there anything else you'd like to discuss today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "no thanks "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "You're welcome, Subhan. Remember, you can always reach out if you need to talk. Take care and be kind to yourself."
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "subhan",
+                "label": "PERSON"
+            },
+            {
+                "text": "today",
+                "label": "DATE"
+            },
+            {
+                "text": "the last year.i",
+                "label": "DATE"
+            },
+            {
+                "text": "js",
+                "label": "PERSON"
+            },
+            {
+                "text": "8",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "mature",
+            "reason": "User primarily responded from the MATURE mind.",
+            "dominance_distribution": {
+                "stressed": 4,
+                "mature": 13
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "my name is subhan ",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"my name is subhan \" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i am feeling stressed today ",
+                    "emotion": "nervousness",
+                    "confidence": 0.47,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i am feeling stressed today \" \u2014 (Nervousness, 0.47)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "since the last year.i feel ok most of the time but sometimes this feeling comes with great stressed",
+                    "emotion": "nervousness",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"since the last year.i feel ok most of the time but sometimes this feeling comes with great stressed\" \u2014 (Nervousness, 0.18)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "9",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"9\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "it was not good i grew up with them but not had a good bond with them",
+                    "emotion": "disappointment",
+                    "confidence": 0.25,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"it was not good i grew up with them but not had a good bond with them\" \u2014 (Disappointment, 0.25)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "no i dont think so its js i was not make that bond with them that i should have made",
+                    "emotion": "disapproval",
+                    "confidence": 0.15,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"no i dont think so its js i was not make that bond with them that i should have made\" \u2014 (Disapproval, 0.15)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "yeah i have it near me",
+                    "emotion": "realization",
+                    "confidence": 0.1,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah i have it near me\" \u2014 (Realization, 0.1)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "yeah ok i am ready",
+                    "emotion": "realization",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah ok i am ready\" \u2014 (Realization, 0.14)"
+                },
+                {
+                    "message_number": 9,
+                    "original": "same stressed ",
+                    "emotion": "nervousness",
+                    "confidence": 0.32,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"same stressed \" \u2014 (Nervousness, 0.32)"
+                },
+                {
+                    "message_number": 10,
+                    "original": "9",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"9\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 11,
+                    "original": "maybe critical i think 8",
+                    "emotion": "disapproval",
+                    "confidence": 0.15,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"maybe critical i think 8\" \u2014 (Disapproval, 0.15)"
+                },
+                {
+                    "message_number": 12,
+                    "original": "yeah this remind me of her when she was with me and i used to have a good mental health",
+                    "emotion": "realization",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah this remind me of her when she was with me and i used to have a good mental health\" \u2014 (Realization, 0.14)"
+                },
+                {
+                    "message_number": 13,
+                    "original": "yeah sure",
+                    "emotion": "approval",
+                    "confidence": 0.1,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah sure\" \u2014 (Approval, 0.1)"
+                },
+                {
+                    "message_number": 14,
+                    "original": "less stressed i think",
+                    "emotion": "relief",
+                    "confidence": 0.2,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"less stressed i think\" \u2014 (Relief, 0.2)"
+                },
+                {
+                    "message_number": 15,
+                    "original": "4 ",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"4 \" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 16,
+                    "original": "supportive i think",
+                    "emotion": "approval",
+                    "confidence": 0.38,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"supportive i think\" \u2014 (Approval, 0.38)"
+                },
+                {
+                    "message_number": 17,
+                    "original": "yeah my childhood memories",
+                    "emotion": "pride",
+                    "confidence": 0.11,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"yeah my childhood memories\" \u2014 (Pride, 0.11)"
+                },
+                {
+                    "message_number": 18,
+                    "original": "yeah i guess it is",
+                    "emotion": "realization",
+                    "confidence": 0.24,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"yeah i guess it is\" \u2014 (Realization, 0.24)"
+                },
+                {
+                    "message_number": 19,
+                    "original": "i do not know but there's definetely some differnece",
+                    "emotion": "confusion",
+                    "confidence": 0.52,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i do not know but there's definetely some differnece\" \u2014 (Confusion, 0.52)"
+                },
+                {
+                    "message_number": 20,
+                    "original": "which part the stronger part or the stressed part?",
+                    "emotion": "confusion",
+                    "confidence": 0.33,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"which part the stronger part or the stressed part?\" \u2014 (Confusion, 0.33)"
+                },
+                {
+                    "message_number": 21,
+                    "original": "i say's you can go through everything and it will be ok you are how you are",
+                    "emotion": "optimism",
+                    "confidence": 0.2,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"i say's you can go through everything and it will be ok you are how you are\" \u2014 (Optimism, 0.2)"
+                },
+                {
+                    "message_number": 22,
+                    "original": "it feels good ",
+                    "emotion": "optimism",
+                    "confidence": 0.18,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"it feels good \" \u2014 (Optimism, 0.18)"
+                },
+                {
+                    "message_number": 23,
+                    "original": "can i leave this envelop know?",
+                    "emotion": "curiosity",
+                    "confidence": 0.2,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"can i leave this envelop know?\" \u2014 (Curiosity, 0.2)"
+                },
+                {
+                    "message_number": 24,
+                    "original": "it feel relaxed ",
+                    "emotion": "relief",
+                    "confidence": 0.55,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"it feel relaxed \" \u2014 (Relief, 0.55)"
+                },
+                {
+                    "message_number": 25,
+                    "original": "no thanks ",
+                    "emotion": "disapproval",
+                    "confidence": 0.26,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"no thanks \" \u2014 (Disapproval, 0.26)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.0625,
+                        0.1875
+                    ],
+                    [
+                        0.1875,
+                        0.5625
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        1,
+                        3
+                    ],
+                    [
+                        3,
+                        9
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.0625,
+                            "mature": 0.1875
+                        },
+                        "mature": {
+                            "stressed": 0.1875,
+                            "mature": 0.5625
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1,
+                            "mature": 3
+                        },
+                        "mature": {
+                            "stressed": 3,
+                            "mature": 9
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        }
+    },
+    {
+        "timestamp": "2025-08-12T12:27:51.498228",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "very high anxiety"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you're feeling this way. Can you tell me more about what's been going on recently? How long have you been experiencing this high level of anxiety?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "bhot dikatt horhy ha boss"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Aapke boss ke saath jo mushkil ho rahi hai, uske baare mein thoda aur bata sakte hain? Yeh kab se chal raha hai?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "kal se"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Samajh gaya. Yeh kal se shuru hua hai. Agar aap isse 0 se 10 tak scale par rate karen, toh aapka anxiety level kitna hoga?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "11"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh kaafi intense lag raha hai. Kya aap mujhe apne bachpan ke baare mein thoda bata sakte hain? Shayad hum wahan se kuch samajh paayein."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "bahcpan me bhi dikatt  hoti thy"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mujhe sun kar afsos hua. Aapke bachpan mein kis tarah ki mushkilein hoti thi? Kya aap apne maa ya pita ke saath apne rishte ke baare mein kuch share karna chahenge?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mata pita hen hy nhi akeli dunya me ayi hun"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh sun kar mujhe afsos hua. Akele duniya mein aana aur bina maa-pita ke bada hona bahut mushkil ho sakta hai. Kya aapke bachpan mein koi aisa tha jo aapke liye support system tha?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "bhot anxiety horhy ha marne wali hun"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mujhe afsos hai ke aap aise mehsoos kar rahe hain. Main yahan aapke saath hoon. Kya aapke paas koi letter envelope hai? Main aapko ek choti si activity karne ke liye kehna chahta hoon jo shayad madadgar ho sakti hai."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "g irshad farmaye"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Aapke paas agar envelope hai, toh usse apni LEFT aankh ko poori tarah se aur RIGHT aankh ke beech wale hisse ko dhak lijiye. Aapko sirf apni RIGHT aankh ke bahar wale kone se dekhna chahiye.\n\nAapko is waqt kaisa mehsoos ho raha hai?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mujhe is waqt andhera dhik raha ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Theek hai, aap isse thodi der ke liye aise hi rakhein. Kya aap mujhe bata sakte hain ke aapka anxiety level ab kitna hai, 0 se 10 tak? Aur aapko koi aur ehsaas ho raha hai?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "11"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Samajh gaya. Aap is waqt kaafi zyada anxiety mehsoos kar rahe hain. Ab aap apni RIGHT aankh ko poori tarah se aur LEFT aankh ke beech wale hisse ko dhak lijiye. Sirf apni LEFT aankh ke bahar wale kone se dekhein.\n\nAb aapko kaisa mehsoos ho raha hai? Aur aapka anxiety level ab kitna hai?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mujhe ghutan horhy ha or mera anxiety level 11 ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Mujhe afsos hai ke aap abhi bhi aise mehsoos kar rahe hain. Aap envelope hata sakte hain. Kabhi kabhi yeh technique turant farq nahi laati, aur yeh bilkul theek hai. Aapke liye yeh samajhna zaroori hai ke aap akeli nahi hain, aur main yahan aapke saath hoon. Kya aap mujhe apne kisi aise pal ke baare mein bata sakte hain jab aapko thoda behtar mehsoos hua ho?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hun me ki karaan?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Main samajh sakta hoon ke aapko abhi kya mehsoos ho raha hai. Kabhi kabhi, bas kisi se baat karna ya apne jazbaat share karna bhi madadgar ho sakta hai. Kya aapko koi aisa pal ya yaad hai jab aapko thoda sukoon mila ho? Shayad hum us par baat kar sakte hain."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "me rona chata ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Rona ek swabhavik tareeka hai apne jazbaat ko bayaan karne ka, aur kabhi kabhi yeh dil ko halka karne mein madadgar hota hai. Aap apne aap ko is ehsaas ko mehsoos karne ki ijaazat de sakte hain. Main yahan aapke saath hoon, aur aap jo bhi mehsoos kar rahe hain, usse share kar sakte hain."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "swabhavik ki honda?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "\"Swabhavik\" ka matlab hai \"natural\" ya \"prakritik.\" Yeh woh cheezein hain jo apne aap hoti hain, bina kisi majboori ya dabav ke. Jaise rona ya hansna, yeh sab swabhavik tareeke hain apne jazbaat ko vyakt karne ke."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "2 * 3 kitna hota ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Chaliye, hum aapke jazbaat aur halat par dhyan dete hain. Aapne abhi tak jo share kiya hai, usse aapke liye kya sabse zyada challenging lagta hai?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "11",
+                "label": "CARDINAL"
+            },
+            {
+                "text": "3",
+                "label": "CARDINAL"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 6,
+                "mature": 6
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "very high anxiety",
+                    "emotion": "nervousness",
+                    "confidence": 0.54,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"very high anxiety\" \u2014 (Nervousness, 0.54)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "bhot dikatt horhy ha boss",
+                    "emotion": "excitement",
+                    "confidence": 0.14,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"bhot dikatt horhy ha boss\" \u2014 (Excitement, 0.14)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "kal se",
+                    "emotion": "amusement",
+                    "confidence": 0.1,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"kal se\" \u2014 (Amusement, 0.1)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "11",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"11\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "bahcpan me bhi dikatt  hoti thy",
+                    "emotion": "approval",
+                    "confidence": 0.08,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"bahcpan me bhi dikatt  hoti thy\" \u2014 (Approval, 0.08)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "mata pita hen hy nhi akeli dunya me ayi hun",
+                    "emotion": "excitement",
+                    "confidence": 0.11,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"mata pita hen hy nhi akeli dunya me ayi hun\" \u2014 (Excitement, 0.11)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "bhot anxiety horhy ha marne wali hun",
+                    "emotion": "nervousness",
+                    "confidence": 0.43,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"bhot anxiety horhy ha marne wali hun\" \u2014 (Nervousness, 0.43)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "g irshad farmaye",
+                    "emotion": "curiosity",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"g irshad farmaye\" \u2014 (Curiosity, 0.07)"
+                },
+                {
+                    "message_number": 9,
+                    "original": "mujhe is waqt andhera dhik raha ha",
+                    "emotion": "amusement",
+                    "confidence": 0.13,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"mujhe is waqt andhera dhik raha ha\" \u2014 (Amusement, 0.13)"
+                },
+                {
+                    "message_number": 10,
+                    "original": "11",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"11\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 11,
+                    "original": "mujhe ghutan horhy ha or mera anxiety level 11 ha",
+                    "emotion": "nervousness",
+                    "confidence": 0.37,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"mujhe ghutan horhy ha or mera anxiety level 11 ha\" \u2014 (Nervousness, 0.37)"
+                },
+                {
+                    "message_number": 12,
+                    "original": "hun me ki karaan?",
+                    "emotion": "confusion",
+                    "confidence": 0.11,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"hun me ki karaan?\" \u2014 (Confusion, 0.11)"
+                },
+                {
+                    "message_number": 13,
+                    "original": "me rona chata ha",
+                    "emotion": "amusement",
+                    "confidence": 0.17,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"me rona chata ha\" \u2014 (Amusement, 0.17)"
+                },
+                {
+                    "message_number": 14,
+                    "original": "swabhavik ki honda?",
+                    "emotion": "curiosity",
+                    "confidence": 0.17,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"swabhavik ki honda?\" \u2014 (Curiosity, 0.17)"
+                },
+                {
+                    "message_number": 15,
+                    "original": "2 * 3 kitna hota ha",
+                    "emotion": "excitement",
+                    "confidence": 0.21,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"2 * 3 kitna hota ha\" \u2014 (Excitement, 0.21)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.1818,
+                        0.2727
+                    ],
+                    [
+                        0.2727,
+                        0.2727
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.1818,
+                            "mature": 0.2727
+                        },
+                        "mature": {
+                            "stressed": 0.2727,
+                            "mature": 0.2727
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 2,
+                            "mature": 3
+                        },
+                        "mature": {
+                            "stressed": 3,
+                            "mature": 3
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": {
+                "text": "mujhe ghutan horhy ha or mera anxiety level 11 ha",
+                "value": 11
+            },
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": {
+                "text": "mujhe ghutan horhy ha or mera anxiety level 11 ha",
+                "value": 11
+            },
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        }
+    },
+    {
+        "timestamp": "2025-08-12T12:37:33.643566",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mujhe bhot anxiety horhy ha mujhse envelope technique karayen"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Bilkul, hum envelope technique try kar sakte hain. Pehle mujhe thoda aapke bare mein bataiye. Aap aaj yahan kyun aaye hain?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "q k me bore horhy thy"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Samajh gaya. Kabhi kabhi bore hone par hum apne aap ko bechain mehsoos kar sakte hain. Aap mujhe apne bachpan ke bare mein thoda bata sakte hain? Aapke maa-baap ke saath aapka rishta kaisa tha?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "bachpan me mai mar gyi thy or ab phir zinda hogyi hun"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh sun kar mujhe afsos hua. Aapke liye yeh kaisa tajurba tha? Kya aap is bare mein thoda aur batana chahenge?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "gee me chipkali dheki thy or me heart attack se me mar gyi thuy"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh kaafi darawna tajurba lagta hai. Chipkali dekh kar aapko kaisa mehsoos hua tha? Kya aapko yaad hai us waqt aapke dil mein kya chal raha tha?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "chipkali dhek k mujhe apni dost yad agyi thy"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Aapki dost ke saath koi khaas yaad judi hui hai jo chipkali dekh kar yaad aayi? Shayad aapke dil mein us waqt kuch khaas ehsaas jag gaye hon."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "g uski shkl chipakli se milti ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh kaafi dilchasp hai. Shayad aapki dost aur chipkali ke beech koi mazak ya yaad judi hui ho. Aapki dost ke saath aapka rishta kaisa tha?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mujhe bhot anxiety horhy ha envelope walio technique krwao"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Bilkul, hum envelope technique try kar sakte hain. Kya aapke paas koi letter envelope hai? Agar nahi, toh aap apne haath ka istemal kar sakte hain. \n\nAgar aapke paas envelope hai, toh usse apni LEFT aankh ko poori tarah se aur RIGHT aankh ke beech wale hisse ko dhak lijiye. Aapko sirf apni right aankh ke bahar wale kone se dekhna chahiye.\n\nKya aap is tarah se dekh rahe hain?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "konsi ankh ko phele dhakun"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Pehle apni LEFT aankh ko poori tarah se dhak lijiye aur RIGHT aankh ke beech wale hisse ko bhi dhak lijiye. Aapko sirf apni right aankh ke bahar wale kone se dekhna chahiye. Jab aap tayaar ho jayein, toh mujhe batayein."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "ready"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Bahut accha. Ab mujhe batayein, aap is waqt kya mehsoos kar rahe hain?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "ghutan"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Samajh gaya. Is ghutan ko aap 0 se 10 tak kis tarah se darja denge? 0 bilkul bhi nahi aur 10 bahut zyada."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "12"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh kaafi intense lagta hai. Aur is waqt aapko koi aur ehsaas yaad aa raha hai? Shayad yeh kisi purani yaad ya tajurbe se juda ho?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "mujhe wo chipkali yad arhy ha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Samajh gaya. Chipkali ki yaad aapke liye kaafi prabhavit karne wali lagti hai. Ab hum doosri taraf dekhne ki koshish karte hain. Apni RIGHT aankh ko poori tarah se dhak lijiye aur LEFT aankh ke beech wale hisse ko bhi dhak lijiye. Sirf apni left aankh ke bahar wale kone se dekhein. Jab aap tayaar ho jayein, toh mujhe batayein."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "ready"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Bahut accha. Ab mujhe batayein, aap is taraf dekhte hue kya mehsoos kar rahe hain?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "relaxed"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh achha hai sun kar. Is relaxed ehsaas ko aap 0 se 10 tak kis tarah se darja denge? 0 bilkul bhi nahi aur 10 bahut zyada."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "6"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh thoda behtar lagta hai. Aur is waqt aapko koi aur yaad ya tajurba yaad aa raha hai? Shayad yeh kisi purani yaad se juda ho?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "kuch nhi yad arha"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Yeh bhi theek hai. Kabhi kabhi sirf ek ehsaas ka hona hi kaafi hota hai. Aapne dekha, ek taraf aapko ghutan mehsoos hui aur doosri taraf thoda relaxed. Yeh farq kaafi dilchasp hai, hai na? Aap is farq ko kaise samajhte hain?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "ab phir zinda",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "mature",
+            "reason": "User primarily responded from the MATURE mind.",
+            "dominance_distribution": {
+                "stressed": 4,
+                "mature": 6
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "mujhe bhot anxiety horhy ha mujhse envelope technique karayen",
+                    "emotion": "nervousness",
+                    "confidence": 0.45,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"mujhe bhot anxiety horhy ha mujhse envelope technique karayen\" \u2014 (Nervousness, 0.45)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "q k me bore horhy thy",
+                    "emotion": "disappointment",
+                    "confidence": 0.12,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"q k me bore horhy thy\" \u2014 (Disappointment, 0.12)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "bachpan me mai mar gyi thy or ab phir zinda hogyi hun",
+                    "emotion": "approval",
+                    "confidence": 0.09,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"bachpan me mai mar gyi thy or ab phir zinda hogyi hun\" \u2014 (Approval, 0.09)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "gee me chipkali dheki thy or me heart attack se me mar gyi thuy",
+                    "emotion": "sadness",
+                    "confidence": 0.07,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"gee me chipkali dheki thy or me heart attack se me mar gyi thuy\" \u2014 (Sadness, 0.07)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "chipkali dhek k mujhe apni dost yad agyi thy",
+                    "emotion": "amusement",
+                    "confidence": 0.07,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"chipkali dhek k mujhe apni dost yad agyi thy\" \u2014 (Amusement, 0.07)"
+                },
+                {
+                    "message_number": 6,
+                    "original": "g uski shkl chipakli se milti ha",
+                    "emotion": "amusement",
+                    "confidence": 0.08,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"g uski shkl chipakli se milti ha\" \u2014 (Amusement, 0.08)"
+                },
+                {
+                    "message_number": 7,
+                    "original": "mujhe bhot anxiety horhy ha envelope walio technique krwao",
+                    "emotion": "nervousness",
+                    "confidence": 0.4,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"mujhe bhot anxiety horhy ha envelope walio technique krwao\" \u2014 (Nervousness, 0.4)"
+                },
+                {
+                    "message_number": 8,
+                    "original": "konsi ankh ko phele dhakun",
+                    "emotion": "confusion",
+                    "confidence": 0.06,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"konsi ankh ko phele dhakun\" \u2014 (Confusion, 0.06)"
+                },
+                {
+                    "message_number": 9,
+                    "original": "ready",
+                    "emotion": "realization",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"ready\" \u2014 (Realization, 0.14)"
+                },
+                {
+                    "message_number": 10,
+                    "original": "ghutan",
+                    "emotion": "pride",
+                    "confidence": 0.05,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"ghutan\" \u2014 (Pride, 0.05)"
+                },
+                {
+                    "message_number": 11,
+                    "original": "12",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"12\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 12,
+                    "original": "mujhe wo chipkali yad arhy ha",
+                    "emotion": "amusement",
+                    "confidence": 0.22,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"mujhe wo chipkali yad arhy ha\" \u2014 (Amusement, 0.22)"
+                },
+                {
+                    "message_number": 13,
+                    "original": "ready",
+                    "emotion": "realization",
+                    "confidence": 0.14,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"ready\" \u2014 (Realization, 0.14)"
+                },
+                {
+                    "message_number": 14,
+                    "original": "relaxed",
+                    "emotion": "relief",
+                    "confidence": 0.53,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"relaxed\" \u2014 (Relief, 0.53)"
+                },
+                {
+                    "message_number": 15,
+                    "original": "6",
+                    "emotion": "realization",
+                    "confidence": 0.07,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"6\" \u2014 (Realization, 0.07)"
+                },
+                {
+                    "message_number": 16,
+                    "original": "kuch nhi yad arha",
+                    "emotion": "amusement",
+                    "confidence": 0.11,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"kuch nhi yad arha\" \u2014 (Amusement, 0.11)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.2222,
+                        0.2222
+                    ],
+                    [
+                        0.1111,
+                        0.4444
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        4
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.2222,
+                            "mature": 0.2222
+                        },
+                        "mature": {
+                            "stressed": 0.1111,
+                            "mature": 0.4444
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 2,
+                            "mature": 2
+                        },
+                        "mature": {
+                            "stressed": 1,
+                            "mature": 4
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": {
+                "text": "mujhe bhot anxiety horhy ha envelope walio technique krwao",
+                "value": null
+            },
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": {
+                "text": "mujhe bhot anxiety horhy ha envelope walio technique krwao",
+                "value": null
+            },
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        }
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "timestamp": "2025-08-06T15:53:19.101627",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hy im khizar "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello Khizar! I'm here to explore your emotional patterns using Dual Brain Psychology. Would you like to share more about what's going on inside right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "im not feeling good"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that, Khizar. Let's explore this together. Can you describe what you're feeling and where you sense it in your body or mind?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "im feeling so sad missing someone badly"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're experiencing a deep sense of longing. Let's take a moment to explore this feeling. Can you imagine what this part of you might be trying to protect you from? Is this feeling familiar from earlier in your life?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "no not like this im missing someone"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I understand. Missing someone can be a powerful feeling. Let's try to connect with both sides of your mind. What does your emotional side say about this longing? And what might your mature mind want that part to know?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "im missing my flutter exoert"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like this person was important to you. Let's explore what your emotional side is expressing about missing them. What might this part of you be trying to communicate or protect you from? And how does your mature mind view this situation?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 0,
+                "right": 5,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hy im khizar ",
+                    "emotion": "fear",
+                    "confidence": 0.54,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hy im khizar \" \u2014 (Fear, 0.54)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "im not feeling good",
+                    "emotion": "joy",
+                    "confidence": 0.98,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"im not feeling good\" \u2014 (Joy, 0.98)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "im feeling so sad missing someone badly",
+                    "emotion": "sadness",
+                    "confidence": 0.99,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"im feeling so sad missing someone badly\" \u2014 (Sadness, 0.99)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "no not like this im missing someone",
+                    "emotion": "sadness",
+                    "confidence": 0.99,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"no not like this im missing someone\" \u2014 (Sadness, 0.99)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "im missing my flutter exoert",
+                    "emotion": "sadness",
+                    "confidence": 0.98,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"im missing my flutter exoert\" \u2014 (Sadness, 0.98)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-06T16:40:49.778934",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is subhan i failed my exam and i am feeling sad now "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you're feeling sad, Subhan. It's understandable to feel this way after an experience like that. Let's take a moment to explore what's happening inside. Where do you feel this sadness in your body or mind?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i feel it in my mind and might be in the body "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Subhan. Let's gently explore this feeling. If you imagine this sadness as a part of you, what might it be trying to protect you from or communicate to you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i donot know exactly it is just holding me back from doing other things "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like this part of you might be trying to keep you safe in some way, perhaps by holding you back from moving forward too quickly. Let's invite your mature mind to respond. What does it want this part to know about your ability to handle challenges and move forward?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "it just want to move on from this "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Your mature mind seems to be encouraging you to move forward and not let this hold you back. Both parts of you are trying to help in their own ways. Would you be open to imagining a dialogue between these parts, or perhaps writing a letter from your mature side to the part that feels held back? This might help in integrating their perspectives."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah might be but i am sure not gonna do that"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's completely okay, Subhan. It's important to go at your own pace and do what feels right for you. If you'd like, we can explore other ways to support the integration of these feelings. For example, you might try a simple exercise like gently moving your eyes from left to right, which can sometimes help in balancing different parts of the mind. Would you be open to trying that?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 2,
+                "right": 2,
+                "balanced": 1
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi my name is subhan i failed my exam and i am feeling sad now ",
+                    "emotion": "sadness",
+                    "confidence": 0.35,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hi my name is subhan i failed my exam and i am feeling sad now \" \u2014 (Sadness, 0.35)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i feel it in my mind and might be in the body ",
+                    "emotion": "realization",
+                    "confidence": 0.25,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i feel it in my mind and might be in the body \" \u2014 (Realization, 0.25)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i donot know exactly it is just holding me back from doing other things ",
+                    "emotion": "confusion",
+                    "confidence": 0.4,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"i donot know exactly it is just holding me back from doing other things \" \u2014 (Confusion, 0.4)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "it just want to move on from this ",
+                    "emotion": "desire",
+                    "confidence": 0.39,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"it just want to move on from this \" \u2014 (Desire, 0.39)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "yeah might be but i am sure not gonna do that",
+                    "emotion": "disappointment",
+                    "confidence": 0.18,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"yeah might be but i am sure not gonna do that\" \u2014 (Disappointment, 0.18)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-06T16:56:41.650089",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is loius and my wife name is eva we both were living together happily but now she's is dead"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm truly sorry to hear about your loss, Louis. It sounds like you're going through a very difficult time. If you're open to it, we can explore how you're feeling using Dual Brain Psychology. What emotions are you experiencing right now, and where do you feel them in your body or mind?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "why would i feel that in my body obv i feel them in my mind "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's understandable to feel emotions strongly in your mind, but sometimes our bodies can also hold onto feelings in different ways. For example, some people might notice tension in their shoulders or a heaviness in their chest. Exploring where you feel emotions can sometimes help in understanding them better. Would you like to share more about what's going on inside right now?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah i feel depressed inside "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Louis. It sounds like there's a part of you that's feeling very low right now. In Dual Brain Psychology, we often explore these feelings by considering what that part of you might be trying to protect you from. Is there something that this feeling might be guarding against or reacting to?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "its guarding me from doing anything but i am working on myself to not be depressed all the time instead i engage myself in some other task to divert my mind from this depression"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're actively trying to engage your mature mind to find balance and focus on tasks that help you feel more grounded. That's an important step. In Dual Brain Psychology, we often explore how both sides of the mind can communicate and support each other. Would you like to explore what your mature mind might want to say to the part of you that's feeling low?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 1,
+                "right": 3,
+                "balanced": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi my name is loius and my wife name is eva we both were living together happily but now she's is dead",
+                    "emotion": "sadness",
+                    "confidence": 0.1,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hi my name is loius and my wife name is eva we both were living together happily but now she's is dead\" \u2014 (Sadness, 0.1)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "why would i feel that in my body obv i feel them in my mind ",
+                    "emotion": "confusion",
+                    "confidence": 0.25,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"why would i feel that in my body obv i feel them in my mind \" \u2014 (Confusion, 0.25)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "yeah i feel depressed inside ",
+                    "emotion": "sadness",
+                    "confidence": 0.39,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"yeah i feel depressed inside \" \u2014 (Sadness, 0.39)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "its guarding me from doing anything but i am working on myself to not be depressed all the time instead i engage myself in some other task to divert my mind from this depression",
+                    "emotion": "sadness",
+                    "confidence": 0.22,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"its guarding me from doing anything but i am working on myself to not be depressed all the time instead i engage myself in some other task to divert my mind from this depression\" \u2014 (Sadness, 0.22)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-06T17:59:14.070545",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi my name is carol and my brother name is alex we both went to new york last year and spent 5000 dollars there on our return from there we had an accident in which my brother died and to day i am missing him "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm truly sorry to hear about your loss, Carol. It sounds like you're experiencing a lot of emotions right now. In Dual Brain Psychology, we can explore these feelings by connecting with different parts of your mind. \n\nWould you like to share what you're feeling right now and where you sense these emotions in your body or mind?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i feel it in my mind"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Thank you for sharing that, Carol. Let's take a moment to gently explore this feeling in your mind. \n\nIf you imagine this part of your mind speaking, what might it be saying to you right now? What is it trying to express or protect you from?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "it express the bond between us i miss him sm and now i donot know what to do"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like that part of your mind is really holding onto the deep bond you shared with your brother, and it's understandable to feel a sense of loss and uncertainty. Let's invite your mature mind to respond to this feeling. \n\nWhat might your mature mind want to say to the part of you that misses him so much?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "nothing the mature mind is like its ok people lose people"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It seems like your mature mind is trying to offer a perspective of acceptance, acknowledging that loss is a part of life. Both parts of your mind are offering something valuable: one is honoring the bond and the other is trying to help you move forward.\n\nWould you be open to imagining a conversation between these two parts? What might they say to each other to find a sense of balance or understanding?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "yeah maybe but i am feeling good now better then before"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm glad to hear that you're feeling a bit better, Carol. It's important to acknowledge both the emotional and mature parts of your mind, as they each have their own wisdom to offer. \n\nIf you ever want to explore these feelings further or engage in a self-dialogue exercise, I'm here to support you. Remember, both parts of your mind are working together to help you navigate through this."
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "carol",
+                "label": "PERSON"
+            },
+            {
+                "text": "alex",
+                "label": "PERSON"
+            },
+            {
+                "text": "new york",
+                "label": "GPE"
+            },
+            {
+                "text": "last year",
+                "label": "DATE"
+            },
+            {
+                "text": "5000 dollars",
+                "label": "MONEY"
+            },
+            {
+                "text": "sm",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "left",
+            "reason": "User primarily responded from the LEFT brain.",
+            "dominance_distribution": {
+                "left": 2,
+                "right": 2,
+                "balanced": 1
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi my name is carol and my brother name is alex we both went to new york last year and spent 5000 dollars there on our return from there we had an accident in which my brother died and to day i am missing him ",
+                    "emotion": "sadness",
+                    "confidence": 0.14,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hi my name is carol and my brother name is alex we both went to new york last year and spent 5000 dollars there on our return from there we had an accident in which my brother died and to day i am missing him \" \u2014 (Sadness, 0.14)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i feel it in my mind",
+                    "emotion": "realization",
+                    "confidence": 0.21,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"i feel it in my mind\" \u2014 (Realization, 0.21)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "it express the bond between us i miss him sm and now i donot know what to do",
+                    "emotion": "confusion",
+                    "confidence": 0.21,
+                    "dominant_side": "left",
+                    "styled": "[LOGICAL \ud83e\udde0] \"it express the bond between us i miss him sm and now i donot know what to do\" \u2014 (Confusion, 0.21)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "nothing the mature mind is like its ok people lose people",
+                    "emotion": "disappointment",
+                    "confidence": 0.12,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"nothing the mature mind is like its ok people lose people\" \u2014 (Disappointment, 0.12)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "yeah maybe but i am feeling good now better then before",
+                    "emotion": "relief",
+                    "confidence": 0.16,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"yeah maybe but i am feeling good now better then before\" \u2014 (Relief, 0.16)"
+                }
+            ],
+            "transitions": [
+                [
+                    1.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-08-06T18:27:54.325394",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "I am so excited for this opportunity "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's wonderful to hear! Excitement can bring a lot of energy and positivity. In the context of Dual Brain Psychology, it's interesting to explore both sides of your mind. What does your excited side want to express, and is there another part of you that has any concerns or different feelings about this opportunity?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "I feel really nervous about the results."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's understandable to feel nervous about the results. Let's explore this feeling a bit more. Can you identify where in your body or mind you sense this nervousness? What might this part of you be trying to protect you from?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "That was incredibly joyful!"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It's great to hear that you experienced joy! Joy can be a powerful and uplifting emotion. In Dual Brain Psychology, it's helpful to explore both sides of your mind. What does your joyful side want to express, and is there another part of you that might have different feelings or thoughts about this joyful experience?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "I'm a bit annoyed by the situation."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Feeling annoyed is a natural response to certain situations. Let's explore this feeling further. Can you identify where in your body or mind you sense this annoyance? What might this part of you be trying to protect you from or communicate to you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "This is such a relief."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Feeling relief can be a soothing and comforting experience. In the context of Dual Brain Psychology, it's interesting to explore both sides of your mind. What does your relieved side want to express, and is there another part of you that might have different feelings or thoughts about this sense of relief?"
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "right",
+            "reason": "User primarily responded from the RIGHT brain.",
+            "dominance_distribution": {
+                "left": 0,
+                "right": 3,
+                "balanced": 2
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "I am so excited for this opportunity ",
+                    "emotion": "excitement",
+                    "confidence": 0.34,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"I am so excited for this opportunity \" \u2014 (Excitement, 0.34)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "I feel really nervous about the results.",
+                    "emotion": "nervousness",
+                    "confidence": 0.59,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"I feel really nervous about the results.\" \u2014 (Nervousness, 0.59)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "That was incredibly joyful!",
+                    "emotion": "joy",
+                    "confidence": 0.26,
+                    "dominant_side": "right",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"That was incredibly joyful!\" \u2014 (Joy, 0.26)"
+                },
+                {
+                    "message_number": 4,
+                    "original": "I'm a bit annoyed by the situation.",
+                    "emotion": "annoyance",
+                    "confidence": 0.44,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"I'm a bit annoyed by the situation.\" \u2014 (Annoyance, 0.44)"
+                },
+                {
+                    "message_number": 5,
+                    "original": "This is such a relief.",
+                    "emotion": "relief",
+                    "confidence": 0.55,
+                    "dominant_side": "balanced",
+                    "styled": "[MIXED \u2696\ufe0f] \"This is such a relief.\" \u2014 (Relief, 0.55)"
+                }
+            ],
+            "transitions": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    1.0
+                ]
+            ]
+        }
+    }
+]

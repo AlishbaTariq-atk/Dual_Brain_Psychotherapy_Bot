@@ -1,0 +1,502 @@
+[
+    {
+        "timestamp": "2025-08-14T01:11:44.410853",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hi what to do"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Hello! I'm here to listen and support you. What brings you here today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "he is not responding me"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "he is not responding mei wan "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that. It sounds like you're feeling a bit frustrated or maybe even hurt. Can you tell me more about the situation and how it's affecting you?"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're feeling a bit frustrated or concerned about someone not responding to you. How long has this been going on, and how does it make you feel?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "me",
+                "label": "PERSON"
+            },
+            {
+                "text": "mei wan",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 0,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hi what to do",
+                    "emotion": "caring",
+                    "confidence": 0.13,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"hi what to do\" \u2014 (Caring, 0.13)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "he is not responding me",
+                    "emotion": "disapproval",
+                    "confidence": 0.15,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"he is not responding me\" \u2014 (Disapproval, 0.15)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "he is not responding mei wan ",
+                    "emotion": "disapproval",
+                    "confidence": 0.16,
+                    "dominant_side": "balanced",
+                    "dbp_state": null,
+                    "styled": "[MIXED \u2696\ufe0f] \"he is not responding mei wan \" \u2014 (Disapproval, 0.16)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 1,
+        "user_id": "123"
+    },
+    {
+        "timestamp": "2025-08-14T13:41:17.594089",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hey there i am feeling down today"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear that you're feeling down. Can you tell me more about what's been going on for you lately? What's been on your mind?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i feel like i have done something wrong "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're carrying a sense of guilt or regret. Can you share more about what happened and why you feel this way? Sometimes talking about it can help us understand those feelings better."
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "i had a n argument with my friend Alex and now he is not talking to me  which makes me feel like crying"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm sorry to hear about the argument with Alex. It can be really tough when there's tension with someone we care about. How long have you been feeling this way since the argument? What do you think led to the disagreement?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "today",
+                "label": "DATE"
+            },
+            {
+                "text": "Alex",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 3,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hey there i am feeling down today",
+                    "emotion": "sadness",
+                    "confidence": 0.42,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hey there i am feeling down today\" \u2014 (Sadness, 0.42)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "i feel like i have done something wrong ",
+                    "emotion": "remorse",
+                    "confidence": 0.19,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i feel like i have done something wrong \" \u2014 (Remorse, 0.19)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "i had a n argument with my friend Alex and now he is not talking to me  which makes me feel like crying",
+                    "emotion": "sadness",
+                    "confidence": 0.25,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"i had a n argument with my friend Alex and now he is not talking to me  which makes me feel like crying\" \u2014 (Sadness, 0.25)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1.0,
+                            "mature": 0.0
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 0.0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 2,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 2,
+        "user_id": "123"
+    },
+    {
+        "timestamp": "2025-08-15T10:46:11.580871",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "hello im depressed"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm really sorry to hear that you're feeling this way. Can you tell me more about what's been going on for you recently? What do you think might be contributing to these feelings?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "my friend died name fayaz"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I'm truly sorry to hear about your loss. Losing someone close to us can be incredibly difficult. How have you been coping with Fayaz's passing? What are some of the feelings or thoughts that have been coming up for you?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "my freind tyyab killed fayaz now he is after me"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That sounds like a very frightening situation. It's important to feel safe and secure. Have you been able to talk to anyone about this, or find a place where you feel protected? What steps have you taken to ensure your safety?"
+                    }
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "text": "fayaz",
+                "label": "PERSON"
+            },
+            {
+                "text": "my freind",
+                "label": "PERSON"
+            },
+            {
+                "text": "tyyab",
+                "label": "PERSON"
+            },
+            {
+                "text": "fayaz",
+                "label": "PERSON"
+            }
+        ],
+        "brain_profile": {
+            "state": "stressed",
+            "reason": "User primarily responded from the STRESSED mind.",
+            "dominance_distribution": {
+                "stressed": 3,
+                "mature": 0
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "hello im depressed",
+                    "emotion": "sadness",
+                    "confidence": 0.32,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"hello im depressed\" \u2014 (Sadness, 0.32)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "my friend died name fayaz",
+                    "emotion": "sadness",
+                    "confidence": 0.11,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"my friend died name fayaz\" \u2014 (Sadness, 0.11)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "my freind tyyab killed fayaz now he is after me",
+                    "emotion": "anger",
+                    "confidence": 0.14,
+                    "dominant_side": "right",
+                    "dbp_state": "stressed",
+                    "styled": "[EMOTIONAL \u2764\ufe0f] \"my freind tyyab killed fayaz now he is after me\" \u2014 (Anger, 0.14)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        1.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        2,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 1.0,
+                            "mature": 0.0
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 0.0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 2,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 0
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 3,
+        "user_id": "123"
+    }
+]

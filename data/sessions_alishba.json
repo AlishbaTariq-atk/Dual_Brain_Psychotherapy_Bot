@@ -1,0 +1,157 @@
+[
+    {
+        "timestamp": "2025-08-14T02:27:22.431197",
+        "chat_history": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "he replied"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "It sounds like you're recalling a conversation or interaction. Could you share a bit more about what was happening in that moment? What was the context of his reply, and how did it make you feel?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "do  uremember "
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "I might not have all the details from our past conversations, but I'm here to listen and support you now. Could you tell me more about what's on your mind or what you'd like to discuss today?"
+                    }
+                ]
+            },
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "nothing"
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "That's perfectly okay. Sometimes it's nice to just have a moment of quiet. If there's anything you'd like to explore or talk about later, I'm here for you."
+                    }
+                ]
+            }
+        ],
+        "entities": [],
+        "brain_profile": {
+            "state": "mature",
+            "reason": "User primarily responded from the MATURE mind.",
+            "dominance_distribution": {
+                "stressed": 0,
+                "mature": 3
+            },
+            "messages": [
+                {
+                    "message_number": 1,
+                    "original": "he replied",
+                    "emotion": "realization",
+                    "confidence": 0.09,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"he replied\" \u2014 (Realization, 0.09)"
+                },
+                {
+                    "message_number": 2,
+                    "original": "do  uremember ",
+                    "emotion": "curiosity",
+                    "confidence": 0.11,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"do  uremember \" \u2014 (Curiosity, 0.11)"
+                },
+                {
+                    "message_number": 3,
+                    "original": "nothing",
+                    "emotion": "neutral",
+                    "confidence": 0.25,
+                    "dominant_side": "left",
+                    "dbp_state": "mature",
+                    "styled": "[LOGICAL \ud83e\udde0] \"nothing\" \u2014 (Neutral, 0.25)"
+                }
+            ],
+            "transitions": {
+                "labels": [
+                    "stressed",
+                    "mature"
+                ],
+                "normalized": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        1.0
+                    ]
+                ],
+                "raw_counts": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        2
+                    ]
+                ],
+                "pretty_normalized": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0.0,
+                            "mature": 0.0
+                        },
+                        "mature": {
+                            "stressed": 0.0,
+                            "mature": 1.0
+                        }
+                    }
+                },
+                "pretty_raw_counts": {
+                    "from\\to": {
+                        "stressed": {
+                            "stressed": 0,
+                            "mature": 0
+                        },
+                        "mature": {
+                            "stressed": 0,
+                            "mature": 2
+                        }
+                    }
+                }
+            }
+        },
+        "envelope_assessment": {
+            "RIGHT_ANXIETY": null,
+            "RIGHT_DEPRESSION": null,
+            "RIGHT_SUPPORTIVENESS": null,
+            "RIGHT_CRAVINGS": null,
+            "RIGHT_REMINDER": null,
+            "LEFT_ANXIETY": null,
+            "LEFT_DEPRESSION": null,
+            "LEFT_SUPPORTIVENESS": null,
+            "LEFT_CRAVINGS": null,
+            "LEFT_REMINDER": null
+        },
+        "session_id": 1,
+        "user_id": "alishba"
+    }
+]
