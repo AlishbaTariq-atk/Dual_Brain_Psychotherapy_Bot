@@ -1,0 +1,78 @@
+-- Updated schema for Unified DBP Bot with stressed/mature states
+
+-- Conversations table
+CREATE TABLE IF NOT EXISTS conversations (
+    session_id TEXT PRIMARY KEY,
+    user_id TEXT,
+    start_time DATETIME DEFAULT CURRENT_TIMESTAMP,
+    end_time DATETIME,
+    total_messages INTEGER DEFAULT 0,
+    termination_reason TEXT,
+    metadata TEXT, -- JSON with additional data
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+-- State transitions (updated for stressed/mature states)
+CREATE TABLE IF NOT EXISTS state_transitions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id TEXT NOT NULL,
+    message_sequence INTEGER NOT NULL,
+    from_state TEXT, -- 'stressed', 'mature', NULL for initial
+    to_state TEXT NOT NULL, -- 'stressed', 'mature'
+    from_intensity REAL, -- 0.0 to 1.0
+    to_intensity REAL,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    trigger_message TEXT,
+    context_messages TEXT, -- JSON array of context
+    detection_confidence REAL,
+    detection_method TEXT, -- 'llm', 'sentiment', 'hybrid'
+    transition_type TEXT, -- 'stressed_stressed', 'stressed_mature', etc.
+    FOREIGN KEY (session_id) REFERENCES conversations(session_id) ON DELETE CASCADE,
+    UNIQUE(session_id, message_sequence)
+);
+
+-- Brain dominance tracking
+CREATE TABLE IF NOT EXISTS brain_dominance (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id TEXT NOT NULL,
+    message_sequence INTEGER NOT NULL,
+    logical_score REAL,
+    emotional_score REAL,
+    dominant_side TEXT, -- 'left', 'right', 'balanced'
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (session_id, message_sequence) 
+        REFERENCES state_transitions(session_id, message_sequence) ON DELETE CASCADE
+);
+
+-- Safety events
+CREATE TABLE IF NOT EXISTS safety_events (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id TEXT NOT NULL,
+    message_sequence INTEGER NOT NULL,
+    event_type TEXT, -- 'forbidden_term', 'safety_concern', etc.
+    severity TEXT, -- 'low', 'medium', 'high'
+    original_message TEXT,
+    filtered_response TEXT,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (session_id, message_sequence) 
+        REFERENCES state_transitions(session_id, message_sequence) ON DELETE CASCADE
+);
+
+-- Response effectiveness
+CREATE TABLE IF NOT EXISTS response_effectiveness (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id TEXT NOT NULL,
+    message_sequence INTEGER NOT NULL,
+    response_type TEXT, -- 'logical', 'emotional', 'blended'
+    state_change_triggered BOOLEAN,
+    target_achieved BOOLEAN,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (session_id, message_sequence) 
+        REFERENCES state_transitions(session_id, message_sequence) ON DELETE CASCADE
+);
+
+-- Indexes for performance
+CREATE INDEX IF NOT EXISTS idx_state_transitions_session ON state_transitions(session_id);
+CREATE INDEX IF NOT EXISTS idx_state_transitions_time ON state_transitions(timestamp);
+CREATE INDEX IF NOT EXISTS idx_brain_dominance_session ON brain_dominance(session_id);
+CREATE INDEX IF NOT EXISTS idx_safety_events_session ON safety_events(session_id);

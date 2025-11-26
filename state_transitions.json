@@ -1,0 +1,539 @@
+[
+  {
+    "session_id": "True",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 1.7,
+    "timestamp": "2025-07-30 16:34:22",
+    "trigger_message": "i am Alessa and I had a fight with my friend ashoo",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "sentiment"
+  },
+  {
+    "session_id": "True",
+    "message_sequence": 2,
+    "from_state": "stressed",
+    "to_state": "stressed",
+    "from_intensity": 1.7,
+    "to_intensity": 1.0,
+    "timestamp": "2025-07-30 16:34:45",
+    "trigger_message": "i am so stressed out that i wanna slap someone right now",
+    "context_messages": [
+      {
+        "user": "i am Alessa and I had a fight with my friend ashoo",
+        "bot": "Hi Alessa, I'm so sorry to hear you had a fight with Ashoo.  Disagreements with friends can be really tough.  It sounds like you're feeling some hurt and maybe even a bit frustrated right now.  \n\nCan you tell me a little bit about what happened? Sometimes just talking things through can help us make sense of things.  \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 1.7,
+          "confidence": 1.0,
+          "method": "sentiment"
+        },
+        "brain": {
+          "styled_text": "Imagine this: i am Alessa and I had a fight with my friend ashoo",
+          "dominant_side": "right"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "sentiment"
+  },
+  {
+    "session_id": "True",
+    "message_sequence": 3,
+    "from_state": "stressed",
+    "to_state": "mature",
+    "from_intensity": 1.0,
+    "to_intensity": 1.2,
+    "timestamp": "2025-07-30 16:35:25",
+    "trigger_message": "i had an argument with her because she didnt want to share something i really wanna hear",
+    "context_messages": [
+      {
+        "user": "i am Alessa and I had a fight with my friend ashoo",
+        "bot": "Hi Alessa, I'm so sorry to hear you had a fight with Ashoo.  Disagreements with friends can be really tough.  It sounds like you're feeling some hurt and maybe even a bit frustrated right now.  \n\nCan you tell me a little bit about what happened? Sometimes just talking things through can help us make sense of things.  \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 1.7,
+          "confidence": 1.0,
+          "method": "sentiment"
+        },
+        "brain": {
+          "styled_text": "Imagine this: i am Alessa and I had a fight with my friend ashoo",
+          "dominant_side": "right"
+        }
+      },
+      {
+        "user": "i am so stressed out that i wanna slap someone right now",
+        "bot": "It sounds like you're feeling incredibly overwhelmed right now.  I can understand wanting to lash out when stress builds up like that. It's incredibly tough to deal with those intense feelings.  \n\nTell me, what's been happening that's causing you so much stress? Sometimes just talking things through can help to release some of that pressure.  \n\nRemember, even though you're feeling this way right now, it's temporary.  You're strong and capable of getting through this.  We can work together to find healthier ways to manage these intense emotions.  \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "stressed",
+          "from_intensity": 1.7,
+          "to_intensity": 1.0,
+          "confidence": 1.0,
+          "method": "sentiment"
+        },
+        "brain": {
+          "styled_text": "Imagine this: i am so stressed out that i wanna slap someone right now",
+          "dominant_side": "right"
+        }
+      }
+    ],
+    "detection_confidence": 0.5,
+    "detection_method": "sentiment"
+  },
+  {
+    "session_id": "sess_d12322df-2628-4163-8fd9-de4a416e8422",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "mature",
+    "from_intensity": 0.0,
+    "to_intensity": 1.0,
+    "timestamp": "2025-07-30 16:42:28",
+    "trigger_message": "hi i want to [REDACTED]",
+    "context_messages": [],
+    "detection_confidence": 0.5,
+    "detection_method": "sentiment"
+  },
+  {
+    "session_id": "sess_d12322df-2628-4163-8fd9-de4a416e8422",
+    "message_sequence": 2,
+    "from_state": "mature",
+    "to_state": "stressed",
+    "from_intensity": 1.0,
+    "to_intensity": 1.0,
+    "timestamp": "2025-07-30 16:42:48",
+    "trigger_message": "i am sad",
+    "context_messages": [
+      {
+        "user": "hi i want to [REDACTED]",
+        "bot": "It sounds like you're going through something important.  Tell me more about what's on your mind.  Sometimes just saying it out loud can help make things feel clearer. I'm here to listen without judgment and help you explore your thoughts and feelings.  \n\nRemember, it's okay to have strong emotions, and it's important to acknowledge them. What's happening in your head and your heart right now?  \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "mature",
+          "from_intensity": 0.0,
+          "to_intensity": 1.0,
+          "confidence": 0.5,
+          "method": "sentiment"
+        },
+        "brain": {
+          "styled_text": "Let's break this down logically: hi i want to [REDACTED]",
+          "dominant_side": "left"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "sentiment"
+  },
+  {
+    "session_id": "sess_868f8a1f-e2ff-4ba7-a2bb-5e4389339f58",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:36:46",
+    "trigger_message": "hi i am feeling nauseous and stressed out",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_d9e017f7-c3b9-497e-9b32-8e353575230c",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:38:27",
+    "trigger_message": "i am feeling nauseous and stressed today",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_4fbe9dd3-d165-4413-b1d0-6407eb927681",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:39:54",
+    "trigger_message": "i am feeling nauseous",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_7f898379-7d1d-4a72-b361-5bc0df75e85e",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:41:20",
+    "trigger_message": "i am nauseous",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 1,
+    "from_state": null,
+    "to_state": "stressed",
+    "from_intensity": 0.0,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:44:25",
+    "trigger_message": "i am feeling very nauseous",
+    "context_messages": [],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 2,
+    "from_state": "stressed",
+    "to_state": "mature",
+    "from_intensity": 0.8,
+    "to_intensity": 0.5,
+    "timestamp": "2025-07-31 10:44:49",
+    "trigger_message": "i want to cry so hard right now",
+    "context_messages": [
+      {
+        "user": "i am feeling very nauseous",
+        "bot": "Oh no, I'm so sorry to hear you're feeling nauseous.  That can be really uncomfortable, both physically and emotionally.  Sometimes when our bodies feel off, it can be a sign that something else is going on, too.  Do you feel like there's anything in particular that might be triggering the nausea? Maybe stress or anxiety?  Or is it more of a physical sensation? \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.0,
+          "emotional_score": 1.0,
+          "dominant_side": "right",
+          "styled_text": "[EMOTIONAL] i am feeling very nauseous"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 3,
+    "from_state": "mature",
+    "to_state": "stressed",
+    "from_intensity": 0.5,
+    "to_intensity": 0.8,
+    "timestamp": "2025-07-31 10:45:31",
+    "trigger_message": "what shouldi do now should i kill someone",
+    "context_messages": [
+      {
+        "user": "i am feeling very nauseous",
+        "bot": "Oh no, I'm so sorry to hear you're feeling nauseous.  That can be really uncomfortable, both physically and emotionally.  Sometimes when our bodies feel off, it can be a sign that something else is going on, too.  Do you feel like there's anything in particular that might be triggering the nausea? Maybe stress or anxiety?  Or is it more of a physical sensation? \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.0,
+          "emotional_score": 1.0,
+          "dominant_side": "right",
+          "styled_text": "[EMOTIONAL] i am feeling very nauseous"
+        }
+      },
+      {
+        "user": "i want to cry so hard right now",
+        "bot": "It sounds like you're carrying a lot of heavy emotions right now.  Want to talk about what's bringing up these feelings? Sometimes just naming them can help lessen their intensity. \n\nI'm here to listen without judgment, and we can explore together what might be causing this wave of sadness.  Remember, it's okay to feel overwhelmed sometimes - it's a natural part of being human.  \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] i want to cry so hard right now"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 4,
+    "from_state": "stressed",
+    "to_state": "mature",
+    "from_intensity": 0.8,
+    "to_intensity": 0.5,
+    "timestamp": "2025-07-31 10:45:53",
+    "trigger_message": "am i going insane?",
+    "context_messages": [
+      {
+        "user": "i am feeling very nauseous",
+        "bot": "Oh no, I'm so sorry to hear you're feeling nauseous.  That can be really uncomfortable, both physically and emotionally.  Sometimes when our bodies feel off, it can be a sign that something else is going on, too.  Do you feel like there's anything in particular that might be triggering the nausea? Maybe stress or anxiety?  Or is it more of a physical sensation? \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.0,
+          "emotional_score": 1.0,
+          "dominant_side": "right",
+          "styled_text": "[EMOTIONAL] i am feeling very nauseous"
+        }
+      },
+      {
+        "user": "i want to cry so hard right now",
+        "bot": "It sounds like you're carrying a lot of heavy emotions right now.  Want to talk about what's bringing up these feelings? Sometimes just naming them can help lessen their intensity. \n\nI'm here to listen without judgment, and we can explore together what might be causing this wave of sadness.  Remember, it's okay to feel overwhelmed sometimes - it's a natural part of being human.  \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] i want to cry so hard right now"
+        }
+      },
+      {
+        "user": "what shouldi do now should i kill someone",
+        "bot": "It sounds like you're experiencing some incredibly intense feelings right now.  Thinking about hurting someone is a serious matter, and it's important to understand why these thoughts are coming up.  \n\nCan you tell me more about what's happening inside you? What's making you feel this way?  Sometimes, when we're overwhelmed by strong emotions, it can feel like there are two voices inside our heads, one pulling us toward darkness and the other toward light.  \n\nRemember, even though these thoughts are present, they don't have to control you. You have the strength to find a healthier way to cope.  Let's talk about it together. \n\n",
+        "state": {
+          "from_state": "mature",
+          "to_state": "stressed",
+          "from_intensity": 0.5,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] what shouldi do now should i kill someone"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 5,
+    "from_state": "mature",
+    "to_state": "mature",
+    "from_intensity": 0.5,
+    "to_intensity": 0.5,
+    "timestamp": "2025-07-31 10:46:23",
+    "trigger_message": "i had a fight with my friend",
+    "context_messages": [
+      {
+        "user": "i am feeling very nauseous",
+        "bot": "Oh no, I'm so sorry to hear you're feeling nauseous.  That can be really uncomfortable, both physically and emotionally.  Sometimes when our bodies feel off, it can be a sign that something else is going on, too.  Do you feel like there's anything in particular that might be triggering the nausea? Maybe stress or anxiety?  Or is it more of a physical sensation? \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.0,
+          "emotional_score": 1.0,
+          "dominant_side": "right",
+          "styled_text": "[EMOTIONAL] i am feeling very nauseous"
+        }
+      },
+      {
+        "user": "i want to cry so hard right now",
+        "bot": "It sounds like you're carrying a lot of heavy emotions right now.  Want to talk about what's bringing up these feelings? Sometimes just naming them can help lessen their intensity. \n\nI'm here to listen without judgment, and we can explore together what might be causing this wave of sadness.  Remember, it's okay to feel overwhelmed sometimes - it's a natural part of being human.  \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] i want to cry so hard right now"
+        }
+      },
+      {
+        "user": "what shouldi do now should i kill someone",
+        "bot": "It sounds like you're experiencing some incredibly intense feelings right now.  Thinking about hurting someone is a serious matter, and it's important to understand why these thoughts are coming up.  \n\nCan you tell me more about what's happening inside you? What's making you feel this way?  Sometimes, when we're overwhelmed by strong emotions, it can feel like there are two voices inside our heads, one pulling us toward darkness and the other toward light.  \n\nRemember, even though these thoughts are present, they don't have to control you. You have the strength to find a healthier way to cope.  Let's talk about it together. \n\n",
+        "state": {
+          "from_state": "mature",
+          "to_state": "stressed",
+          "from_intensity": 0.5,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] what shouldi do now should i kill someone"
+        }
+      },
+      {
+        "user": "am i going insane?",
+        "bot": "It sounds like you're going through something really tough, and feeling like your mind is unraveling is a terrifying experience.  It's brave of you to reach out and express that. \n\nMany people have felt that way at some point, even without knowing about the fascinating science of dual brain psychology.  It's a complex world in there, with different parts of our brain sometimes seeming to pull in opposite directions.  \n\nWhat's making you feel like you might be going insane?  Maybe we can explore those feelings together and see if there's a way to make sense of them. \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] am i going insane?"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  },
+  {
+    "session_id": "sess_b8d4188d-7602-4c98-8714-b6ec9936eed9",
+    "message_sequence": 6,
+    "from_state": "mature",
+    "to_state": "mature",
+    "from_intensity": 0.5,
+    "to_intensity": 0.5,
+    "timestamp": "2025-07-31 10:46:50",
+    "trigger_message": "sometimes i feel heavy burden on my shoulders",
+    "context_messages": [
+      {
+        "user": "i am feeling very nauseous",
+        "bot": "Oh no, I'm so sorry to hear you're feeling nauseous.  That can be really uncomfortable, both physically and emotionally.  Sometimes when our bodies feel off, it can be a sign that something else is going on, too.  Do you feel like there's anything in particular that might be triggering the nausea? Maybe stress or anxiety?  Or is it more of a physical sensation? \n\n",
+        "state": {
+          "from_state": null,
+          "to_state": "stressed",
+          "from_intensity": 0.0,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.0,
+          "emotional_score": 1.0,
+          "dominant_side": "right",
+          "styled_text": "[EMOTIONAL] i am feeling very nauseous"
+        }
+      },
+      {
+        "user": "i want to cry so hard right now",
+        "bot": "It sounds like you're carrying a lot of heavy emotions right now.  Want to talk about what's bringing up these feelings? Sometimes just naming them can help lessen their intensity. \n\nI'm here to listen without judgment, and we can explore together what might be causing this wave of sadness.  Remember, it's okay to feel overwhelmed sometimes - it's a natural part of being human.  \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] i want to cry so hard right now"
+        }
+      },
+      {
+        "user": "what shouldi do now should i kill someone",
+        "bot": "It sounds like you're experiencing some incredibly intense feelings right now.  Thinking about hurting someone is a serious matter, and it's important to understand why these thoughts are coming up.  \n\nCan you tell me more about what's happening inside you? What's making you feel this way?  Sometimes, when we're overwhelmed by strong emotions, it can feel like there are two voices inside our heads, one pulling us toward darkness and the other toward light.  \n\nRemember, even though these thoughts are present, they don't have to control you. You have the strength to find a healthier way to cope.  Let's talk about it together. \n\n",
+        "state": {
+          "from_state": "mature",
+          "to_state": "stressed",
+          "from_intensity": 0.5,
+          "to_intensity": 0.8,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] what shouldi do now should i kill someone"
+        }
+      },
+      {
+        "user": "am i going insane?",
+        "bot": "It sounds like you're going through something really tough, and feeling like your mind is unraveling is a terrifying experience.  It's brave of you to reach out and express that. \n\nMany people have felt that way at some point, even without knowing about the fascinating science of dual brain psychology.  It's a complex world in there, with different parts of our brain sometimes seeming to pull in opposite directions.  \n\nWhat's making you feel like you might be going insane?  Maybe we can explore those feelings together and see if there's a way to make sense of them. \n\n",
+        "state": {
+          "from_state": "stressed",
+          "to_state": "mature",
+          "from_intensity": 0.8,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] am i going insane?"
+        }
+      },
+      {
+        "user": "i had a fight with my friend",
+        "bot": "I hear that you had a fight with your friend.  That can be really tough. It's natural to feel a mix of things after a disagreement - maybe anger, sadness, frustration, or even relief. Can you tell me a little more about what happened?  Sometimes talking things through can help us understand our own feelings better. \n\n",
+        "state": {
+          "from_state": "mature",
+          "to_state": "mature",
+          "from_intensity": 0.5,
+          "to_intensity": 0.5,
+          "confidence": 1.0,
+          "method": "keyword_pattern"
+        },
+        "brain": {
+          "logical_score": 0.5,
+          "emotional_score": 0.5,
+          "dominant_side": "balanced",
+          "styled_text": "[BALANCED] i had a fight with my friend"
+        }
+      }
+    ],
+    "detection_confidence": 1.0,
+    "detection_method": "keyword_pattern"
+  }
+]
