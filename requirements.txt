@@ -1,40 +1,5 @@
-# --- Core API and Web ---
-fastapi
-uvicorn
+# python==3.9.23
+mediapipe>=0.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
 
-# --- spaCy for NER ---
-spacy
-thinc
-en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl#sha256=272a31e9d8530d1e075351d30a462d7e80e31da23574f1b274e200f3fff35bf5
-
-# --- LLM and RAG (LangChain, Google, OpenAI) ---
-langchain
-langchain-core
-langchain-community
-langchain-google-genai
-langchain-text-splitters
-langchain_openai
-
-# --- Vector Store ---
-faiss-cpu
-
-# --- Environment Variables ---
-python-dotenv
-
-# --- Emotion Analysis ---
-transformers
-
-# --- Google APIs (if used) ---
-google-generativeai
-google-api-python-client
-google-auth
-
-# --- Other likely required ---
-pydantic
-requests
-
-# --- Optional: Only if you use these in code ---
-# numpy
-# pandas
-# scikit-learn
-# scipy
